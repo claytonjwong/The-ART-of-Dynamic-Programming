@@ -1,7 +1,7 @@
 ## Prerequisites
 
 > You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices can come from a deep sense of who you are.
-
+>
 [-Mr. Rogers](https://en.wikipedia.org/wiki/Fred_Rogers)
 
 A significant amount of time and mental resources are necessary to begin understanding
@@ -13,7 +13,7 @@ and mathematical induction.
 * [Mathematical Induction](https://en.wikipedia.org/wiki/Mathematical_induction)
 
 > Take the first step in faith. You don't have to see the whole staircase, just take the first step.
-
+>
 [-Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 A mental leap is faith is necessary to begin post-processing recursion and mathematical
@@ -29,7 +29,7 @@ the optimal solutions to subproblems of the original problem itself.
 ## What is Dynamic Programming?
 
 > We will never know our full potential unless we push ourselves to find it.
-
+>
 [-Travis Rice](https://en.wikipedia.org/wiki/Travis_Rice)
 
 There are two key ingredients to DP: optimal substructure and overlapping subproblems.
@@ -42,7 +42,7 @@ There are two key ingredients to DP: optimal substructure and overlapping subpro
 ## What is the ART of Dynamic Programming?
 
 > Don't only practice your art, but force your way into its secrets.  For it and knowledge can raise men to the divine.
-
+>
 [-Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 **ART** is an acronym used to intuitively create solutions to DP problems in 3 steps:
@@ -125,7 +125,7 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 
 > Computer, install a recursive algorithm.
 - Ensign Harry Kim, [Star Trek Voyager, Episode 102](https://en.wikipedia.org/wiki/Nothing_Human_(Star_Trek:_Voyager))
-
+>
 The **ART** of DP in 3 steps:
 
 1. **A**ll possibilities are considered via Brute-Force Top-Down DFS
@@ -136,7 +136,7 @@ The **ART** of DP in 3 steps:
 ## Canonical Examples
 
 > It seemed unthinkable for me to leave the world forever before I had produced all that I felt called upon to produce.
-
+>
 [-Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 

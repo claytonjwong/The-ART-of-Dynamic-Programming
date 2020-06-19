@@ -130,7 +130,7 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 The **ART** of DP in 3 steps:
 
 1. **A**ll possibilities are considered via Brute-Force Top-Down DFS
-2. **R**emember each subproblem's optional solution via Memoization
+2. **R**emember each subproblem's optimal solution via Memoization
 3. **T**urn the Top-Down solution upside-down to create the Bottom-Up solution
 
 

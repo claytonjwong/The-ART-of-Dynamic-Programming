@@ -43,7 +43,7 @@ There are two key ingredients to DP: optimal substructure and overlapping subpro
 
 > Don't only practice your art, but force your way into its secrets.  For it and knowledge can raise men to the divine.
 
--Ludwig van Beethoven
+[-Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 **ART** is an acronym used to intuitively create solutions to DP problems in 3 steps:
 1. **A**ll
@@ -135,7 +135,7 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 
 > It seemed unthinkable for me to leave the world forever before I had produced all that I felt called upon to produce.
 
--Ludwig van Beethoven
+[-Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 
 #### N-Dimensional Top-Down + Bottom-Up:

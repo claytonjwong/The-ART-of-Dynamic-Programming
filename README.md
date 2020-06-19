@@ -120,6 +120,9 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 
 ## Summary: The ART of Dynamic Programming
 
+> Computer, install a recursive algorithm.
+- Ensign Harry Kim, [Star Trek Voyager, Episode 102](https://en.wikipedia.org/wiki/Nothing_Human_(Star_Trek:_Voyager))
+
 1. **A**ll possibilities are considered via Brute-Force Top-Down DFS
 2. **R**emember each subproblem's optional solution via Memoization
 3. **T**urn the Top-Down solution upside-down to create the Bottom-Up solution

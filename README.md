@@ -55,7 +55,7 @@ what our end-goal is and how we can intuitively reach it.  Our end-goal in gener
 minimize or maximum an objective function within the given constraints of an arbitrary
 universe of discourse (ie. the problem statement).
 
-**Ask yourself this question:** Is it possible to know the minimum or maximum objective function
+**Ask yourself this question:** Is it possible to know the minimum or maximum objective function outcome
 without first checking all possibilities?  For example, let's say we have 3 numbers, and we
 want to know what is the minimum or maximum of those 3 numbers.  Is it possible to know the
 minimum or maximum value *without* first checking the values of all 3 numbers?  Please

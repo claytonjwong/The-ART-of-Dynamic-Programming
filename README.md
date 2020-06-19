@@ -23,7 +23,7 @@ we have assumed the inductive hypothesis of a recurrence relation is true.  Only
 this mental leap of faith is made can we look back in hindsight with the mind's eye
 to discover what that actually means, ie. we can clearly "see" the recursive stack
 hit the base case(s) and begin to unwind, formulating an optimal solution built upon
-the optimal solutions to subproblems of the problem.
+the optimal solutions to subproblems of the original problem itself.
 
 
 ## What is Dynamic Programming?
@@ -125,6 +125,8 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 
 > Computer, install a recursive algorithm.
 - Ensign Harry Kim, [Star Trek Voyager, Episode 102](https://en.wikipedia.org/wiki/Nothing_Human_(Star_Trek:_Voyager))
+
+The **ART** of DP in 3 steps:
 
 1. **A**ll possibilities are considered via Brute-Force Top-Down DFS
 2. **R**emember each subproblem's optional solution via Memoization

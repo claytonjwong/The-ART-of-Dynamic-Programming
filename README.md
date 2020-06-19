@@ -25,6 +25,7 @@ to discover what that actually means, ie. we can clearly "see" the recursive sta
 hit the base case(s) and begin to unwind, formulating an optimal solution built upon
 the optimal solutions to subproblems of the problem.
 
+
 ## What is Dynamic Programming?
 
 > We will never know our full potential unless we push ourselves to find it.
@@ -36,6 +37,7 @@ There are two key ingredients to DP: optimal substructure and overlapping subpro
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 	* [Optimal Substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
 	* [Overlapping Subproblems](https://en.wikipedia.org/wiki/Overlapping_subproblems)
+
 
 ## What is the ART of Dynamic Programming?
 
@@ -118,6 +120,7 @@ Furthermore, if `cur` is only dependent upon itself, then we can also remove `pr
 and [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/Javascript-and-C%2B%2B-solutions) as examples of this supplemental memory optimization which reduces
 the memory by a constant factor of N, ie. we only need N memory instead of 2 * N memory.
 
+
 ## Summary: The ART of Dynamic Programming
 
 > Computer, install a recursive algorithm.
@@ -127,13 +130,15 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 2. **R**emember each subproblem's optional solution via Memoization
 3. **T**urn the Top-Down solution upside-down to create the Bottom-Up solution
 
+
 ## Canonical Examples
 
 > It seemed unthinkable for me to leave the world forever before I had produced all that I felt called upon to produce.
 
 -Ludwig van Beethoven
 
-### N-Dimensional Top-Down + Bottom-Up:
+
+#### N-Dimensional Top-Down + Bottom-Up:
 
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/discuss/635659/Javascript-and-C%2B%2B-solutions)
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/discuss/479377/Javascript-and-C%2B%2B-solutions)
@@ -148,7 +153,7 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/discuss/660828/Javascript-and-C%2B%2B-solutions)
 
 
-### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:
+#### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:
 
 * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/discuss/512006/Javascript-and-C%2B%2B-solutions)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/508260/Javascript-and-C%2B%2B-solutions)
@@ -156,13 +161,29 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 * [1139. Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/discuss/681894/Javascript-and-C%2B%2B-solutions)
 
 
-### Recurrence Relation to Minimize or Maximize an Objective Function:
+#### Recurrence Relation to Minimize or Maximize an Objective Function:
 
 * [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/442151/Javascript-and-C%2B%2B-solutions)
 
 
-### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:
+#### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:
 
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/discuss/657068/Javascript-and-C%2B%2B-solutions)
 
 
+## Resources
+
+* [Master Theorem: Determine the asymptotic bound of recursive algorithms via standard recurrences](https://claytonjwong.github.io/Master-Theorem/)
+* [Algorithms for DNA Sequencing](https://claytonjwong.github.io/Algorithms-DNA-Sequencing/)
+* [Algorithms by Standford University](https://claytonjwong.github.io/Algorithms-Stanford/)
+* [Algorithms and Data Structures by UC San Diego](https://claytonjwong.github.io/Algorithms-UCSanDiego/)
+* [Towers of Hanoi](https://claytonjwong.github.io/Towers-Of-Hanoi/)
+
+
+## Supplemental Resources
+
+* [Algorithms: Dasgupta-Papadimitriou-Vazirani ( 2006 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Dasgupta-Papadimitriou-Vazirani.pdf)
+* [Algorithms and Data Structures: Mehlhorn-Sanders ( 2007 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Mehlhorn-Sanders-Toolbox.pdf)
+* [Introduction to Algorithms: Cormen-Leiserson-Rivest-Stein ( 2009 )](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
+* [Discrete Probability](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability)
+* [Mathematical Proofs](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Mathematical_Proofs)

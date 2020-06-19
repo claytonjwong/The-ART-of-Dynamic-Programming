@@ -124,8 +124,9 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 ## Summary: The ART of Dynamic Programming
 
 > Computer, install a recursive algorithm.
-- Ensign Harry Kim, [Star Trek Voyager, Episode 102](https://en.wikipedia.org/wiki/Nothing_Human_(Star_Trek:_Voyager))
 >
+- Ensign Harry Kim, [Star Trek Voyager, Episode 102](https://en.wikipedia.org/wiki/Nothing_Human_(Star_Trek:_Voyager))
+
 The **ART** of DP in 3 steps:
 
 1. **A**ll possibilities are considered via Brute-Force Top-Down DFS

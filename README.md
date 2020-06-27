@@ -32,11 +32,9 @@ the optimal solutions to subproblems of the original problem itself.
 >
 [-Travis Rice](https://en.wikipedia.org/wiki/Travis_Rice)
 
-There are two key ingredients to DP: optimal substructure and overlapping subproblems.
-
-* [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-	* [Optimal Substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
-	* [Overlapping Subproblems](https://en.wikipedia.org/wiki/Overlapping_subproblems)
+There are two key ingredients to [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+1. [Optimal Substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
+2. [Overlapping Subproblems](https://en.wikipedia.org/wiki/Overlapping_subproblems)
 
 
 ## What is the ART of Dynamic Programming?
@@ -62,17 +60,7 @@ minimum or maximum value *without* first checking the values of all 3 numbers?  
 take a moment to consider this question before proceeding.
 
 The answer is obviously "no."  It is *not* possible to know which of the 3 numbers are
-minimal or maximal unless we first check all 3 values.  This can be proved by a simple
-proof by contradiction in which we assume the opposite of our postulate P and prove not P
-is false.  Thus, if not P is false, then P is true.
-
-Let P denote: "It is **impossible** to know the minimum or maximum of 3 numbers without first checking all 3 values of those 3 numbers."
-Then not P is "It is **possible** to know the minimum or maximum of 3 numbers without first checking all 3 values of those 3 numbers."
-
-Let us assume not P is true, ie. we have checked the first two values and the third value remains unknown.
-Then it is impossible to know if one of the first two values is minimal or maximal without checking
-the third value.  So we have contradicted our false postulate not P, therefore P is true.  Thus, our thought process
-has intuitively lead us to step 1.
+minimal or maximal unless we first check all 3 values.
 
 ### Step 1
 
@@ -80,33 +68,32 @@ has intuitively lead us to step 1.
 determine the objective function outcome.  This realization allows us to begin creating a DP solution via a naive
 [brute-force algorithm](https://en.wikipedia.org/wiki/Brute-force_search) ie. an exhaustive search of all possibilities.
 Therefore, we begin by exploring all possibilites via top-down [DFS](https://en.wikipedia.org/wiki/Depth-first_search).
-Since we know we need to check all possibilities of the universe of discourse under consideration,
-this gives us key insight towards the N-dimensions of the corresponding DP memo which is used to remember the optimal solutions
-to each overlapping subproblem.  This understanding leads us to step 2, but before we move on to step 2, let us first take another
-moment to consider the next key question.
+Since we know we need to check all possibilities, this gives us key insight towards the N-dimensions of the corresponding
+DP memo which is used to remember the optimal solutions to each overlapping subproblem.  This intuition leads us to step 2,
+but before we move on to step 2, let us first take another moment to consider the next key question.
 
 **Ask yourself this question:** Is it possible to determine the objective function outcome without solving overlapping subproblems more than once?
 
 The answer is obviously "yes."  With the properly structured N-dimensional memo we can store the optimal solutions
 to overlapping subproblems as they are computed, and then lookup previous solutions upon demand.
-This is the entire purpose of the DP memo.  Simply remember each previous subproblem's optimal solution to avoid re-calculating
-each previous subproblem's optimal solution.  This is raison d'être of DP, remembering the past to formulate the future, ie. use
+This is the entire purpose of the DP memo.  Simply remember each previous subproblem's optimal solution to avoid re-calculating it.
+In fact, this is raison d'être of dynamic programming, remembering the past to formulate the future, ie. use
 previous optimal subproblem solutions to formulate current optimal subproblem solutions to formulate the overall optimal solution
-for the problem itself.
+for the original problem itself.
 
 ### Step 2
 
-**R**emember each subproblem's optimal solution to avoid re-computing each previous subproblem's optimal solutions.
+**R**emember each prevoius subproblem's optimal solution to avoid re-computing it over and over again.
 The memo is shaped as an arbtrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable
 of the universe of discourse.  Thus, the size of the N-dimensional data structure directly corresponds to the cartensian product
-of the coalesced variables possibilites for the universe of discourse under consideration.  The base case(s) of the recurrence relation are
+of the coalesced variables of all possibilites under consideration.  The base case(s) of the recurrence relation are
 added to the memo first.  And as the recursive stack unwinds, the base case(s) are iteratively and optimally built upon.
 This iterative building upon previous subproblem's optimal solutions from the bottom-up leads us to step 3.
 
 ### Step 3
 
 **T**urn the memoized top-down DFS solution upside-down to formulate an explicit bottom-up solution.  This step can be
-challenging because the bases case(s) must first be explicitly specified *before* being constrained-built upon.  The Top-Down solutions
+challenging because the bases case(s) must first be explicitly specified *before* being iteratively built upon.  The Top-Down solutions
 allow for the base case(s) to be implied by the recursion towards the base case(s) and thus implicitly stored by the memo as each recursive
 stack "bottoms out" (ie. hits the base case(s) and begins to unwind).  It can be helpful to print the memoized table from the Top-Down DFS
 with Memo solution to identify the bases case(s) and the bottom-up recurrence relation.
@@ -151,6 +138,7 @@ The **ART** of DP in 3 steps:
 * [322. Coin Change](https://leetcode.com/problems/coin-change/discuss/677858/Javascript-and-C%2B%2B-solutions)
 * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/Javascript-and-C%2B%2B-solutions)
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/690997/Javascript-and-C%2B%2B-solutions)
+* [877. Stone Game](https://leetcode.com/problems/stone-game/discuss/706734/Javascript-and-C%2B%2B-solutions)
 * [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/652184/Javascript-and-C%2B%2B-solutions)
 * [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/discuss/657825/Javascript-and-C%2B%2B-solutions)
 * [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/discuss/653625/Javascript-and-C%2B%2B-solutions)

@@ -67,7 +67,7 @@ take a moment to consider this question before proceeding.
 The answer is obviously "no."  It is *not* possible to know which of the 3 numbers are
 minimal or maximal unless we first check all 3 values.
 
-### Step 1
+### Step 1: All
 
 **A**ll possibilities of a universe of discourse under consideration need to be checked before we can
 determine the objective function outcome.  This realization allows us to begin creating a DP solution via a naive
@@ -86,7 +86,7 @@ In fact, this is raison d'être of dynamic programming, remembering the past to 
 previous optimal subproblem solutions to formulate current optimal subproblem solutions to formulate the overall optimal solution
 for the original problem itself.
 
-### Step 2
+### Step 2: Remember
 
 **R**emember each previous subproblem's optimal solution to avoid re-computing it over and over again.
 The memo is shaped as an arbtrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable
@@ -95,7 +95,7 @@ of the coalesced variables of all possibilites under consideration.  The base ca
 added to the memo first.  And as the recursive stack unwinds, the base case(s) are iteratively and optimally built upon.
 This iterative building upon previous subproblem's optimal solutions from the bottom-up leads us to step 3.
 
-### Step 3
+### Step 3: Turn
 
 **T**urn the memoized top-down DFS solution upside-down to formulate an explicit bottom-up solution.  This step can be
 challenging because the bases case(s) must first be explicitly specified *before* being iteratively built upon.  The Top-Down solutions

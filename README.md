@@ -1,4 +1,5 @@
-# The ART of Dynamic Programming: From Apprentice to Master
+# The ART of Dynamic Programming
+## An Intuitive Approach: From Apprentice to Master
 
 > When I left you, I was but the learner, now I am the master.
 >

@@ -1,3 +1,11 @@
+# The ART of Dynamic Programming: From Apprentice to Master
+
+> When I left you, I was but the learner, now I am the master.
+>
+[-Darth Vader](https://en.wikipedia.org/wiki/Darth_Vader)
+
+Let us explore the intuitions of dynamic programming and transform our thoughts from "what the hell?" to "oh yeah, duh!"
+
 ## Prerequisites
 
 > You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices can come from a deep sense of who you are.

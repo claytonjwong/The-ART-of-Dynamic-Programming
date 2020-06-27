@@ -88,7 +88,7 @@ for the original problem itself.
 
 ### Step 2
 
-**R**emember each prevoius subproblem's optimal solution to avoid re-computing it over and over again.
+**R**emember each previous subproblem's optimal solution to avoid re-computing it over and over again.
 The memo is shaped as an arbtrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable
 of the universe of discourse.  Thus, the size of the N-dimensional data structure directly corresponds to the cartensian product
 of the coalesced variables of all possibilites under consideration.  The base case(s) of the recurrence relation are

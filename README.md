@@ -6,11 +6,8 @@
 
 A significant amount of time and mental resources are necessary to begin understanding
 dynamic programming.  Thus, DP is best approached as a "marathon", not a "sprint".
-Two key building blocks towards a basic understanding of DP are recursion
-and mathematical induction.
-
-* [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-* [Mathematical Induction](https://en.wikipedia.org/wiki/Mathematical_induction)
+Two key building blocks towards a basic understanding of DP are [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+and [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 
 > Take the first step in faith. You don't have to see the whole staircase, just take the first step.
 >
@@ -32,7 +29,7 @@ the optimal solutions to subproblems of the original problem itself.
 >
 [-Travis Rice](https://en.wikipedia.org/wiki/Travis_Rice)
 
-There are two key ingredients to [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+There are two key ingredients to [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming):
 1. [Optimal Substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
 2. [Overlapping Subproblems](https://en.wikipedia.org/wiki/Overlapping_subproblems)
 

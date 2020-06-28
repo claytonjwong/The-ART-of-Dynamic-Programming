@@ -133,6 +133,19 @@ The **ART** of DP in 3 steps:
 >
 [-Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
+### Emoji Legend
+* 🛑 **Base Case(s):**
+	* Where the recursive stack "bottoms out" and begins to unwind
+* 🎯 **Recurrence Relation Target:**
+	* Determine the overall objective function by recursively solving subproblems optimally
+* 🤔 **Memo Lookup:**
+	* Lookup optimal solutions to previously solved subproblems within the N-dimensional memo data structure
+* ✅ **With:**
+	* "include this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
+* ❌ **Without:**
+	* "disclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
+* ❌ **Exit Conditions:**
+	* We can exit early under non-optimal conditions (ie. dfs pruning) or for invalid inputs (ie. out-of-bounds)
 
 #### N-Dimensional Top-Down + Bottom-Up:
 

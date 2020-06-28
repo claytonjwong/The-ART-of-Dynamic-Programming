@@ -23,8 +23,7 @@ and [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_inductio
 [-Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 A mental leap is faith is necessary to begin post-processing recursion and mathematical
-induction from a computer science perspective, ie. we
-can only understand the basic principles of recursion and recursive algorithms after
+induction, ie. we can only understand the basic principles of recursion and recursive algorithms after
 we have assumed the inductive hypothesis of a recurrence relation is true.  Only after
 this mental leap of faith is made can we look back in hindsight with the mind's eye
 to discover what that actually means, ie. we can clearly "see" the recursive stack

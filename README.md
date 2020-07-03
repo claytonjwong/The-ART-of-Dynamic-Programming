@@ -5,8 +5,7 @@
 >
 [-Darth Vader](https://en.wikipedia.org/wiki/Darth_Vader)
 
-Let us explore the intuitions of dynamic programming and transform our thoughts from "what the hell?" to "oh yeah, duh!"
-via a 3-step heuristic process.  In hindsight, we can "see" the **ART** of dynamic programming is as easy as 1, 2, 3.
+Let us explore the intuitions of dynamic programming and transform our thoughts from "what the hell?" to "oh yeah, duh!" via a 3-step heuristic process.  In hindsight, we can "see" the **ART** of dynamic programming is as easy as 1, 2, 3.
 
 ## Prerequisites
 
@@ -14,22 +13,15 @@ via a 3-step heuristic process.  In hindsight, we can "see" the **ART** of dynam
 >
 [-Mr. Rogers](https://en.wikipedia.org/wiki/Fred_Rogers)
 
-A significant amount of time and mental resources are necessary to begin understanding
-dynamic programming.  Thus, DP is best approached as a "marathon", not a "sprint".
-Two key building blocks towards a basic understanding of DP are [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-and [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
+A significant amount of time and mental resources are necessary to begin understanding dynamic programming.  Thus, DP is best approached as a "marathon", not a "sprint".  Two key building blocks towards a basic understanding of DP are [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) and [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
+
+* **Note:** When I mention "recursive stack unwinding", what I mean is "frames popping off the recursive [call stack](https://en.wikipedia.org/wiki/Call_stack)".  And I imagine a similarity between this action and stepping down the stairs one-by-one, followed by stepping back up the stairs in reverse one-by-one.
 
 > Take the first step in faith. You don't have to see the whole staircase, just take the first step.
 >
 [-Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
-A mental leap is faith is necessary to begin post-processing recursion and mathematical
-induction, ie. we can only understand the basic principles of recursion and recursive algorithms after
-we have assumed the inductive hypothesis of a recurrence relation is true.  After taking
-this mental leap of faith, we can look back in hindsight with the mind's eye
-to discover what that actually means, ie. we can clearly "see" the recursive stack
-hit the base case(s) and begin to unwind, formulating an optimal solution built upon
-the optimal solutions to subproblems of the original problem itself.
+A mental leap is faith is necessary to begin post-processing recursion and mathematical induction, ie. we can only understand the basic principles of recursion and recursive algorithms after we have assumed the inductive hypothesis of a recurrence relation is true.  After taking this mental leap of faith, we can look back in hindsight with the mind's eye to discover what that actually means, ie. we can clearly "see" the recursive stack hit the base case(s) and begin to unwind, formulating an optimal solution built upon the optimal solutions to subproblems of the original problem itself.
 
 
 ## What is Dynamic Programming?
@@ -54,64 +46,34 @@ There are two key ingredients to [Dynamic Programming](https://en.wikipedia.org/
 2. **R**emember
 3. **T**urn
 
-These 3 steps are elaborated upon below, however, let us first take a minute to consider
-what our end-goal is and how we can intuitively reach it.  Our end-goal in general is to
-minimize or maximum an objective function within the given constraints of an arbitrary
-universe of discourse (ie. the problem statement).
+These 3 steps are elaborated upon below, however, let us first take a minute to consider what our end-goal is and how we can intuitively reach it.  Our end-goal in general is to minimize or maximum an objective function within the given constraints of an arbitrary universe of discourse (ie. the problem statement).
 
-**Ask yourself this question:** Is it possible to know the minimum or maximum objective function outcome
-without first checking all possibilities?  For example, let's say we have 3 numbers, and we
-want to know what is the minimum or maximum of those 3 numbers.  Is it possible to know the
-minimum or maximum value *without* first checking the values of all 3 numbers?  Please
-take a moment to consider this question before proceeding.
+**Ask yourself this question:** Is it possible to know the minimum or maximum objective function outcome without first checking all possibilities?  For example, let's say we have 3 numbers, and we want to know what is the minimum or maximum of those 3 numbers.  Is it possible to know the minimum or maximum value *without* first checking the values of all 3 numbers?  Please take a moment to consider this question before proceeding.
 
-The answer is obviously "no."  It is *not* possible to know which of the 3 numbers are
-minimal or maximal unless we first check all 3 values.
+The answer is obviously "no."  It is *not* possible to know which of the 3 numbers are minimal or maximal unless we first check all 3 values.
 
 ### Step 1: All
 
-**A**ll possibilities of a universe of discourse under consideration need to be checked before we can
-determine the objective function outcome.  This realization allows us to begin creating a DP solution via a naive
-[brute-force algorithm](https://en.wikipedia.org/wiki/Brute-force_search) ie. an exhaustive search of all possibilities.
-Therefore, we begin by exploring all possibilites via top-down [depth-first-search](https://en.wikipedia.org/wiki/Depth-first_search).
-Since we know we need to check all possibilities, this gives us key insight towards the N-dimensions of the corresponding
-DP memo which is used to remember the optimal solutions to each overlapping subproblem.  This intuition leads us to step 2,
-but before we move on to step 2, let us first take another moment to consider the next key question.
+**A**ll possibilities of a universe of discourse under consideration need to be checked before we can determine the objective function outcome.  This realization allows us to begin creating a DP solution via a naive [brute-force algorithm](https://en.wikipedia.org/wiki/Brute-force_search) ie. an exhaustive search of all possibilities.  Therefore, we begin by exploring all possibilites via top-down [depth-first-search](https://en.wikipedia.org/wiki/Depth-first_search).  Since we know we need to check all possibilities, this gives us key insight towards the N-dimensions of the corresponding DP memo which is used to remember the optimal solutions to each overlapping subproblem.  This intuition leads us to step 2, but before we move on to step 2, let us first take another moment to consider the next key question.
 
 **Ask yourself this question:** Is it possible to determine the objective function outcome without solving overlapping subproblems more than once?
 
-The answer is obviously "yes."  With the properly structured N-dimensional memo we can store the optimal solutions
-to overlapping subproblems as they are computed, and then lookup previous solutions upon demand.
-This is the entire purpose of the DP memo.  Simply remember each previous subproblem's optimal solution to avoid re-calculating it.
-In fact, this is raison d'être of dynamic programming, remembering the past to formulate the future, ie. use
-previous optimal subproblem solutions to formulate current optimal subproblem solutions to formulate the overall optimal solution
-for the original problem itself.
+The answer is obviously "yes."  With the properly structured N-dimensional memo we can store the optimal solutions to overlapping subproblems as they are computed, and then lookup previous solutions upon demand.  This is the entire purpose of the DP memo.  Simply remember each previous subproblem's optimal solution to avoid re-calculating it.  In fact, this is raison d'être of dynamic programming, remembering the past to formulate the future, ie. use previous optimal subproblem solutions to formulate current optimal subproblem solutions to formulate the overall optimal solution for the original problem itself.
 
 ### Step 2: Remember
 
-**R**emember each previous subproblem's optimal solution to avoid re-computing it over and over again.
-The memo is shaped as an arbitrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable
-of the universe of discourse.  Thus, the size of the N-dimensional data structure directly corresponds to the cartesian product
-of the coalesced variables of all possibilites under consideration.  The base case(s) of the recurrence relation are
-added to the memo first.  And as the recursive stack unwinds, the base case(s) are iteratively and optimally built upon.
-This iterative building upon previous subproblem's optimal solutions from the bottom-up leads us to step 3.
+**R**emember each previous subproblem's optimal solution to avoid re-computing it.  Combined with the previous "top-down brute-force solution" from step 1, we create the "top-down with memo" solution by simply using a memo to store and lookup solutions to subproblems. Thus a simple if-statement is added to the top of the recursive function to check if a solution to the subproblem is available.  If the solution is availble, then return it immediately.  If the solution is *not* available, then compute and store the solution once, thus making the solution available for future lookups. The memo is shaped as an arbitrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable of the universe of discourse.  Thus, the size of the N-dimensional data structure directly corresponds to the cartesian product of the coalesced variables of all possibilites under consideration.  The base case(s) of the recurrence relation are added to the memo first.  And as the recursive stack unwinds, the base case(s) are iteratively and optimally built upon.  This iterative building upon previous subproblem's optimal solutions from the bottom-up leads us to step 3.
 
 ### Step 3: Turn
 
-**T**urn the memoized top-down DFS solution upside-down to formulate an explicit bottom-up solution.  This step can be
-challenging because the bases case(s) must first be explicitly specified *before* being iteratively built upon.  The top-down solutions
-allow for the base case(s) to be implied by the recursion towards the base case(s) and thus implicitly stored by the memo as each recursive
-stack "bottoms out" (ie. hits the base case(s) and begins to unwind).  It can be helpful to print the memoized table from the top-down DFS
-with Memo solution to identify the bases case(s) and the bottom-up recurrence relation.
+**T**urn the "top-down with memo" solution upside-down to formulate an explicit bottom-up solution.  This step can be challenging because the bases case(s) must first be explicitly specified *before* being iteratively built upon.  The previous top-down solutions allow for the base case(s) to be implied by the recursion towards the base case(s) and thus implicitly stored by the memo as each recursive stack "bottoms out" (ie. hits the base case(s) and begins to unwind).  To prepare for this implicit to explicit transformation, it can be helpful to print the N-dimensions each time a subproblem's optimal solution is stored in the memo from the "top-down with memo" solution to identify the explicit bases case(s) and to clearly understand how the recursive stack unwinds and thus dictates the iterative building upon the bottom-up recurrence relation.  It can also be helpful to print the entire memo when the memo's dimensions can be easily visualized, ie. within 2- or 3-dimensions.
 
 * Optional Memory Optimization:
 
 	* After step 3, it may be possible to optimize memory.  For example, if we have a 2D matrix for the DP memo, but the current row is only dependent upon
-the previous row, then we can reduce memory from O(N<sup>2</sup>) to O(N) by replacing `dp[i]` with `cur` (ie. current row) and `dp[i - 1]` with `pre` (ie. previous row).
-Furthermore, if `cur` is only dependent upon itself, then we can also remove `pre`.
+the previous row, then we can reduce memory from O(N<sup>2</sup>) to O(N) by replacing "`dp[i]`" with "`cur`" (ie. current row) and "`dp[i - 1]`" with "`pre`" (ie. previous row).  Furthermore, if "`cur`"" is only dependent upon itself, then we can also remove "`pre`".
 	* See [322. Coin Change](https://leetcode.com/problems/coin-change/discuss/677858/Javascript-and-C%2B%2B-solutions)
-and [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/Javascript-and-C%2B%2B-solutions) as examples of this supplemental memory optimization which reduces
-the memory by a constant factor of N, ie. we only need N memory instead of 2 * N memory.
+and [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/Javascript-and-C%2B%2B-solutions) as examples of this supplemental memory optimization which reduces the memory by a constant factor of N, ie. we only need N memory instead of 2 * N memory.
 
 
 ## Summary: The ART of Dynamic Programming
@@ -122,9 +84,9 @@ the memory by a constant factor of N, ie. we only need N memory instead of 2 * N
 
 The **ART** of DP in 3 steps:
 
-1. **A**ll possibilities are considered via Brute-Force Top-Down DFS
-2. **R**emember each subproblem's optimal solution via Memoization
-3. **T**urn the Top-Down solution upside-down to create the Bottom-Up solution
+1. **A**ll possibilities are considered via top-down brute-force depth-first-search
+2. **R**emember each subproblem's optimal solution via a DP memo
+3. **T**urn the top-down solution upside-down to create the bottom-up solution
 
 
 ## Canonical Examples

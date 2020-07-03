@@ -30,7 +30,7 @@ A mental leap is faith is necessary to begin post-processing recursion and mathe
 >
 [-Travis Rice](https://en.wikipedia.org/wiki/Travis_Rice)
 
-There are two key ingredients to [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming):
+There are two key ingredients to problems which can be solved by a [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming) algorithm:
 1. [Optimal Substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
 2. [Overlapping Subproblems](https://en.wikipedia.org/wiki/Overlapping_subproblems)
 

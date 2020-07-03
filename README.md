@@ -62,7 +62,7 @@ The answer is obviously "yes."  With the properly structured N-dimensional memo 
 
 ### Step 2: Remember
 
-**R**emember each previous subproblem's optimal solution to avoid re-computing it.  Combined with the previous "top-down brute-force solution" from step 1, we create the "top-down with memo" solution by simply using a memo to store and lookup solutions to subproblems. Thus a simple if-statement is added to the top of the recursive function to check if a solution to the subproblem is available.  If the solution is availble, then return it immediately.  If the solution is *not* available, then compute and store the solution once, thus making the solution available for future lookups. The memo is shaped as an arbitrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable of the universe of discourse.  Thus, the size of the N-dimensional data structure directly corresponds to the cartesian product of the coalesced variables of all possibilites under consideration.  The base case(s) of the recurrence relation are added to the memo first.  And as the recursive stack unwinds, the base case(s) are iteratively and optimally built upon.  This iterative building upon previous subproblem's optimal solutions from the bottom-up leads us to step 3.
+**R**emember each previous subproblem's optimal solution to avoid re-computing it.  Combined with the previous "top-down brute-force" solution from step 1, we create the "top-down with memo" solution by simply using a memo to store and lookup solutions to subproblems. Thus a simple if-statement is added to the top of the recursive function to check if a solution to the subproblem is available.  If the solution is availble, then return it immediately.  If the solution is *not* available, then compute and store the solution once, thus making the solution available for future lookups. The memo is shaped as an arbitrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable of the universe of discourse.  Thus, the size of the N-dimensional data structure directly corresponds to the cartesian product of the coalesced variables of all possibilites under consideration.  The base case(s) of the recurrence relation are added to the memo first.  And as the recursive stack unwinds, the base case(s) are iteratively and optimally built upon.  This iterative building upon previous subproblem's optimal solutions from the bottom-up leads us to step 3.
 
 ### Step 3: Turn
 
@@ -109,7 +109,7 @@ The **ART** of DP in 3 steps:
 * ❌ **Without**
 	* "disclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
 * ❌ **Exit Conditions**
-	* We can exit early under non-optimal conditions (ie. dfs pruning) or for invalid inputs (ie. out-of-bounds)
+	* We can exit early under non-optimal conditions (ie. depth-first-search pruning) or for invalid inputs (ie. out-of-bounds)
 
 #### N-Dimensional Top-Down + Bottom-Up:
 

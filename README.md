@@ -92,7 +92,7 @@ The **ART** of DP in 3 steps:
 >
 [-Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
-### Emoji Legend
+### Emoji Legend 🧭
 * 🛑 **Base Case(s)**
 	* Where the recursive stack "bottoms out" and begins to unwind
 * 🎯 **Recurrence Relation Target**

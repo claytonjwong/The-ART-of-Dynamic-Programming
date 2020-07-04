@@ -5,7 +5,7 @@
 >
 [-Darth Vader](https://en.wikipedia.org/wiki/Darth_Vader)
 
-Let us explore the intuitions of dynamic programming and transform our thoughts from "what the hell?" to "oh yeah, duh!" via a 3-step heuristic process.  In hindsight, we can "see" the **ART** of dynamic programming is as easy as 1, 2, 3.
+Let us explore the intuitions of dynamic programming and transform our thoughts from "what the hell?" to "oh yeah, duh!" via a 3-step heuristic process.  In hindsight, we can "see" the **ART** of dynamic programming is as easy as 1, 2, 3. 👍
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ Let us explore the intuitions of dynamic programming and transform our thoughts 
 
 A significant amount of time and mental resources are necessary to begin understanding dynamic programming.  Thus, DP is best approached as a "marathon", not a "sprint".  Two key building blocks towards a basic understanding of DP are [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) and [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 
-* **Note:** When I mention "recursive stack unwinding", what I mean is "frames popping off the recursive [call stack](https://en.wikipedia.org/wiki/Call_stack)".  And I imagine a similarity between this action and stepping down the stairs one-by-one, followed by stepping back up the stairs in reverse one-by-one.
+**Note:** When I mention "recursive stack unwinding", what I mean is "frames popping off the recursive [call stack](https://en.wikipedia.org/wiki/Call_stack)".  And I imagine a similarity between this action and stepping down the stairs one-by-one, followed by stepping back up the stairs  one-by-one in reverse.  Stepping down the stairs would be equivalent to the recursive function being invoked as a subroutine of itself.  And stepping back up on the stairs would be equivalent to hitting the base case(s) and the recursive function calls start exsting their subroutines.  Another way to consider this action would be a stack of plates: a plate is added onto the top of the stack of plates each time a recrusive function is invoked as a subroutine of itself and a plate is removed from the top of the stack of plates after the base case(s) occur and the recursive function calls start exiting their subroutines.
 
 > Take the first step in faith. You don't have to see the whole staircase, just take the first step.
 >

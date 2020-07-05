@@ -96,9 +96,9 @@ The **ART** of DP in 3 steps:
 * 🛑 **Base Case(s)**
 	* Where the recursive stack "bottoms out" and begins to unwind
 * 🎯 **Recurrence Relation Target**
-	* Determine the overall objective function by recursively solving subproblems optimally
-* 🤔 **Memo Lookup**
-	* Lookup optimal solutions to previously solved subproblems within the N-dimensional memo data structure
+	* Determine the overall objective function outcome by recursively solving subproblems optimally
+* 🤔 **Memo**
+	* Store and retrieve optimal solutions to previously solved subproblems within the N-dimensional memo data structure
 * 👀 **Seen**
 	* Track which unique keys of the N-dimensional memo data structure have been previously seen
 * ✅ **With**

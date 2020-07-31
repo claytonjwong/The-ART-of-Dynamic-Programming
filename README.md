@@ -103,7 +103,7 @@ The **ART** of DP in 3 steps:
 	* Track which unique keys of the N-dimensional memo data structure have been previously seen
 * ✅ **With**
 	* "include this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
-* ❌ **Without**
+* 🚫 **Without**
 	* "disclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
 * ❌ **Exit Conditions**
 	* We can exit early under non-optimal conditions (ie. depth-first-search pruning) or for invalid inputs (ie. out-of-bounds)
@@ -115,6 +115,7 @@ The **ART** of DP in 3 steps:
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/discuss/479377/Javascript-and-C%2B%2B-solutions)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/discuss/703865/Javascript-and-C%2B%2B-solutions)
 * [139. Word Break](https://leetcode.com/problems/word-break/discuss/632205/Javascript-and-C%2B%2B-solutions)
+* [140. Word Break II](https://leetcode.com/problems/word-break-ii/discuss/765548/Javascript-Python3-C%2B%2B-top-down-%2B-bottom-up-(partial))
 * [221. Maximal Square](https://leetcode.com/problems/maximal-square/discuss/600365/Javascript-and-C%2B%2B-solutions)
 * [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/discuss/708644/Javascript-and-C%2B%2B-solutions)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/discuss/677858/Javascript-and-C%2B%2B-solutions)

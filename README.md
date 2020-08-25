@@ -126,6 +126,7 @@ The **ART** of DP in 3 steps:
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/discuss/110111/Javascript-and-C%2B%2B-solutions)
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/690997/Javascript-and-C%2B%2B-solutions)
 * [877. Stone Game](https://leetcode.com/problems/stone-game/discuss/706734/Javascript-and-C%2B%2B-solutions)
+* [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/discuss/811237/Javascript-Python3-C%2B%2B-Top-Down-%2B-Bottom-Up)
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/discuss/292472/Javascript-Python3-C%2B%2B-Top-Down-%2B-Bottom-Up)
 * [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/652184/Javascript-and-C%2B%2B-solutions)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/discuss/713502/Javascript-and-C%2B%2B-solutions)

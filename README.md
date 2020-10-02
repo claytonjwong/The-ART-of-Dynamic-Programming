@@ -55,7 +55,7 @@ These 3 steps are elaborated upon below, however, let us first take a minute to 
 
 The answer is obviously "no."  It is <i>not</i> possible to know which of the 3 numbers are minimal or maximal unless we first check all 3 values.  Using 3 cards as an example, let's assume we only know the values for the first two cards.  Since we have <i>not</i> checked the third card's value, we don't know if it is less-than, equal-to, or greater-than the first two cards, and thus we <i>cannot</i> determine the object function outcome <i>without</i> first checking the <b>all</b> of the card values.
 
-![](images/3cards.png)
+<img src="images/3cards.png" />
 
 </p>
 </details>
@@ -74,7 +74,7 @@ The answer is obviously "no."  It is <i>not</i> possible to know which of the 3 
 
 The answer is obviously "yes."  With the properly structured N-dimensional memo we can store the optimal solutions to overlapping subproblems as they are computed, and then lookup previous solutions upon demand.  This is the entire purpose of the DP memo.  Simply remember each previous subproblem's optimal solution to avoid re-calculating it.  In fact, this is raison d'être of dynamic programming, remembering the past to formulate the future, ie. use previous optimal subproblem solutions to formulate current optimal subproblem solutions to formulate the overall optimal solution for the original problem itself.
 
-![](images/past_future.png)
+<img src="images/past_future.png" />
 
 
 </p>

@@ -1,4 +1,4 @@
-# The ART of Dynamic Programming
+# 🎨  The ART of Dynamic Programming
 ## An Intuitive Approach: From Apprentice to Master
 
 > When I left you, I was but the learner, now I am the master.
@@ -50,7 +50,18 @@ These 3 steps are elaborated upon below, however, let us first take a minute to 
 
 **Ask yourself this question:** Is it possible to know the minimum or maximum objective function outcome without first checking all possibilities?  For example, let's say we have 3 numbers, and we want to know what is the minimum or maximum of those 3 numbers.  Is it possible to know the minimum or maximum value *without* first checking the values of all 3 numbers?  Please take a moment to consider this question before proceeding.
 
-The answer is obviously "no."  It is *not* possible to know which of the 3 numbers are minimal or maximal unless we first check all 3 values.
+<details><summary>See Answer</summary>
+<p>
+
+The answer is obviously "no."  It is *not* possible to know which of the 3 numbers are minimal or maximal unless we first check all 3 values.  Using 3 cards as an example, let's assume we only know the values for the first two cards.  Since we have *not* checked the third card's value, we don't know if it is less-than, equal-to, or greater-than the first two cards, and thus we *cannot* determine the object function outcome *without* first checking the **all** of the card values.
+
+![](images/3cards.png)
+
+</p>
+</details>
+<p>
+
+</p>
 
 ### Step 1: All
 
@@ -58,13 +69,23 @@ The answer is obviously "no."  It is *not* possible to know which of the 3 numbe
 
 **Ask yourself this question:** Is it possible to determine the objective function outcome without solving overlapping subproblems more than once?
 
+<details><summary>See Answer</summary>
+<p>
+
 The answer is obviously "yes."  With the properly structured N-dimensional memo we can store the optimal solutions to overlapping subproblems as they are computed, and then lookup previous solutions upon demand.  This is the entire purpose of the DP memo.  Simply remember each previous subproblem's optimal solution to avoid re-calculating it.  In fact, this is raison d'être of dynamic programming, remembering the past to formulate the future, ie. use previous optimal subproblem solutions to formulate current optimal subproblem solutions to formulate the overall optimal solution for the original problem itself.
+
+![](images/past_future.png)
+
+
+</p>
+</details>
+<p>
+
+</p>
 
 ### Step 2: Remember
 
-**R**emember each previous subproblem's optimal solution to avoid recomputing it.  Combined with the previous "top-down brute-force" solution from step 1, we create the "top-down with memo" solution by simply using a memo to store and lookup solutions to previously solved subproblems. Thus a simple if-statement is added to the top of the recursive function to check if a solution to the subproblem is available.  If the solution is availble, then return it immediately.  If the solution is *not* available, then compute and store the solution once, thus making the solution available for future lookups. The memo is shaped as an arbitrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable of the universe of discourse.  Thus, the size of the N-dimensional data structure directly corresponds to the product of the coalesced variables of all possibilites under consideration.  And it follows that the keys which uniquely identify each subproblem solution's storage position within the DP memo are all valid permutations of those specific variables per the constraints of the problem statement.
-
-The base case(s) of the recurrence relation are added to the memo first.  And as the recursive stack unwinds, the base case(s) are iteratively and optimally built upon.  This iterative building upon previous subproblem's optimal solutions from the bottom-up leads us to step 3.
+**R**emember each previous subproblem's optimal solution to avoid recomputing it.  Combined with the previous "top-down brute-force" solution from step 1, we create the "top-down with memo" solution by simply using a memo to store and lookup solutions to previously solved subproblems. Thus a simple if-statement is added to the top of the recursive function to check if a solution to the subproblem is available.  If the solution is availble, then return it immediately.  If the solution is *not* available, then compute and store the solution once, thus making the solution available for future lookups. The memo is shaped as an arbitrary N-dimensional data structure such that each N-th dimension corresponds to a specific variable of the universe of discourse.  Thus, the size of the N-dimensional data structure directly corresponds to the product of the coalesced variables of all possibilites under consideration.  And it follows that the keys which uniquely identify each subproblem solution's storage position within the DP memo are all valid permutations of those specific variables per the constraints of the problem statement.  The base case(s) of the recurrence relation are added to the memo first.  And as the recursive stack unwinds, the base case(s) are iteratively and optimally built upon.  This iterative building upon previous subproblem's optimal solutions from the bottom-up leads us to step 3.
 
 ### Step 3: Turn
 
@@ -96,19 +117,19 @@ The **ART** of DP in 3 steps:
 
 ### Emoji Legend 🧭
 * 🛑 **Base Case(s)**
-	* Where the recursive stack "bottoms out" and begins to unwind
+    * Where the recursive stack "bottoms out" and begins to unwind
 * 🎯 **Recurrence Relation Target**
-	* Determine the overall objective function outcome by recursively solving subproblems optimally
+    * Determine the overall objective function outcome by recursively solving subproblems optimally
 * 🤔 **Memo**
-	* Store and retrieve optimal solutions to previously solved subproblems within the N-dimensional memo data structure
+    * Store and retrieve optimal solutions to previously solved subproblems within the N-dimensional memo data structure
 * 👀 **Seen**
-	* Track which unique keys of the N-dimensional memo data structure have been previously seen
+    * Track which unique keys of the N-dimensional memo data structure have been previously seen
 * ✅ **With**
-	* "include this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
+    * "include this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
 * 🚫 **Without**
-	* "disclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
+    * "disclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
 * ❌ **Exit Conditions**
-	* We can exit early under non-optimal conditions (ie. depth-first-search pruning) or for invalid inputs (ie. out-of-bounds)
+    * We can exit early under non-optimal conditions (ie. depth-first-search pruning) or for invalid inputs (ie. out-of-bounds)
 
 #### N-Dimensional Top-Down + Bottom-Up:
 
@@ -159,13 +180,13 @@ The **ART** of DP in 3 steps:
 
 ## Resources
 
-* [Master Theorem: Determine the asymptotic bound of recursive algorithms via standard recurrences](https://claytonjwong.github.io/Master-Theorem/)
+* [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
 * [Competitive Programmer's Core Skills by Saint Petersburg State University](https://claytonjwong.github.io/competitive-programming/)
 * [Algorithms by Standford University](https://claytonjwong.github.io/Algorithms-Stanford/)
 * [Algorithms and Data Structures by UC San Diego](https://claytonjwong.github.io/Algorithms-UCSanDiego/)
 * [Algorithms for DNA Sequencing](https://claytonjwong.github.io/Algorithms-DNA-Sequencing/)
+* [Master Theorem: Determine the asymptotic bound of recursive algorithms via standard recurrences](https://claytonjwong.github.io/Master-Theorem/)
 * [Towers of Hanoi](https://claytonjwong.github.io/Towers-Of-Hanoi/)
-
 
 ## Supplemental Resources
 

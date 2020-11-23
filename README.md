@@ -144,6 +144,7 @@ The **ART** of DP in 3 steps:
 * [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/discuss/708644/Javascript-and-C%2B%2B-solutions)
 * [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/discuss/385203/Javascript-and-C%2B%2B-solutions)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/discuss/677858/Javascript-and-C%2B%2B-solutions)
+* [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/946524/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/discuss/617275/Javascript-and-C%2B%2B-solutions)
 * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/Javascript-and-C%2B%2B-solutions)
 * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/916696/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)

@@ -124,9 +124,9 @@ The **ART** of DP in 3 steps:
 * 👀 **Seen**
     * Track which unique keys of the N-dimensional memo data structure have been previously seen
 * ✅ **With**
-    * "include this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
+    * "include this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each `i`<sup>th</sup> item
 * 🚫 **Without**
-    * "disclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each i-th item
+    * "disclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each `i`<sup>th</sup> item
 * ❌ **Exit Conditions**
     * We can exit early under non-optimal conditions (ie. depth-first-search pruning) or for invalid inputs (ie. out-of-bounds)
 

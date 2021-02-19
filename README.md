@@ -180,7 +180,7 @@ The **ART** of DP in 3 steps:
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:
 
-* [338. Counting Bits](https://leetcode.com/problems/counting-bits/discuss/657068/Javascript-and-C%2B%2B-solutions)
+* [338. Counting Bits](https://leetcode.com/problems/counting-bits/discuss/657068/Kt-Js-Py3-Cpp-Dynamic-Programming)
 * [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/discuss/439097/Javascript-and-C%2B%2B-solutions)
 
 

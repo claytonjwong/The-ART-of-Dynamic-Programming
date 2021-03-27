@@ -197,6 +197,7 @@ The **ART** of DP in 3 steps:
 
 ## Supplemental Resources
 
+* [Mathematics for Computer Science](https://github.com/claytonjwong/Algorithms-Stanford/raw/master/documentation/mcs.pdf)
 * [Algorithms: Dasgupta-Papadimitriou-Vazirani ( 2006 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Dasgupta-Papadimitriou-Vazirani.pdf)
 * [Algorithms and Data Structures: Mehlhorn-Sanders ( 2007 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Mehlhorn-Sanders-Toolbox.pdf)
 * [Introduction to Algorithms: Cormen-Leiserson-Rivest-Stein ( 2009 )](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)

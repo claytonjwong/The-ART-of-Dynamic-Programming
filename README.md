@@ -147,6 +147,7 @@ The **ART** of DP in 3 steps:
 * [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/discuss/385203/Javascript-and-C%2B%2B-solutions)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/discuss/677858/Javascript-and-C%2B%2B-solutions)
 * [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/946524/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
+* [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/discuss/1134924/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/discuss/617275/Javascript-and-C%2B%2B-solutions)
 * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/Javascript-and-C%2B%2B-solutions)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/discuss/105742/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)

@@ -172,7 +172,7 @@ The **ART** of DP in 3 steps:
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:
 
 * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/discuss/512006/Javascript-and-C%2B%2B-solutions)
-* [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/508260/Javascript-and-C%2B%2B-solutions)
+* [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/508260/A-few-solutions)
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/discuss/665390/Javascript-and-C%2B%2B-solutions)
 * [1139. Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/discuss/681894/Javascript-and-C%2B%2B-solutions)
 

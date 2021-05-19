@@ -53,7 +53,7 @@ These 3 steps are elaborated upon below, however, let us first take a minute to 
 <details><summary>See Answer</summary>
 <p>
 
-The answer is obviously "no."  It is <i>not</i> possible to know which of the 3 numbers are minimal or maximal unless we first check all 3 values.  Using 3 cards as an example, let's assume we only know the values for the first two cards.  Since we have <i>not</i> checked the third card's value, we don't know if it is less-than, equal-to, or greater-than the first two cards, and thus we <i>cannot</i> determine the object function outcome <i>without</i> first checking the <b>all</b> of the card values.
+The answer is obviously "no."  It is <i>not</i> possible to know which of the 3 numbers are minimal or maximal unless we first check all 3 values.  Using 3 cards as an example, let's assume we only know the values for the first two cards.  Since we have <i>not</i> checked the third card's value, we don't know if it is less-than, equal-to, or greater-than the first two cards, and thus we <i>cannot</i> determine the objective function outcome <i>without</i> first checking the <b>all</b> of the card values.
 
 </p>
 <img src="images/3cards.png" />

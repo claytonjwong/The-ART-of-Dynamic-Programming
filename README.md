@@ -168,6 +168,8 @@ The **ART** of DP in 3 steps:
 * [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/discuss/695337/Javascript-and-C%2B%2B-solutions)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/discuss/737869/javascript-python3-c)
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/discuss/1231012/The-ART-of-Dynamic-Programming)
+* [1879. Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/discuss/1241903/The-ART-of-Dynamic-Programming)
+
 
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:
 

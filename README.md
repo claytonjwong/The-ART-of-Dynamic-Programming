@@ -48,12 +48,12 @@ There are two key ingredients to problems which can be solved by a [Dynamic Prog
 
 These 3 steps are elaborated upon below, however, let us first take a minute to consider what our end-goal is and how we can intuitively reach it.  Our end-goal in general is to minimize or maximize an objective function within the given constraints of an arbitrary universe of discourse (ie. the problem statement).
 
-**Ask yourself this question:** Is it possible to know the minimum or maximum objective function outcome without first checking all possibilities?  For example, let's say we have 3 numbers, and we want to know what is the minimum or maximum of those 3 numbers.  Is it possible to know the minimum or maximum value *without* first checking the values of all 3 numbers?  Please take a moment to consider this question before proceeding.
+**Ask yourself this question:** Is it possible to know the minimum or maximum objective function outcome without considering all possibilities?  For example, let's say we have 3 numbers, and we want to know what is the minimum or maximum of those 3 numbers.  Is it possible to know the minimum or maximum value *without* considering <b>all</b>b> of the card values?  Please take a moment to consider this question before proceeding.
 
 <details><summary>See Answer</summary>
 <p>
 
-The answer is obviously "no."  It is <i>not</i> possible to know which of the 3 numbers are minimal or maximal unless we first check all 3 values.  Using 3 cards as an example, let's assume we only know the values for the first two cards.  Since we have <i>not</i> checked the third card's value, we don't know if it is less-than, equal-to, or greater-than the first two cards, and thus we <i>cannot</i> determine the objective function outcome <i>without</i> considering <b>all</b> of the card values.
+The answer is obviously "no."  It is <i>not</i> possible to know which of the 3 numbers are minimal or maximal unless we consider all 3 values.  Using 3 cards as an example, let's assume we only know the values for the first two cards.  Since we have <i>not</i> seen the third card's value, we don't know if it's less-than, equal-to, or greater-than the first two cards, and thus we <i>cannot</i> determine the objective function outcome <i>without</i> considering <b>all</b> of the card values.
 
 </p>
 <img src="images/3cards.png" />

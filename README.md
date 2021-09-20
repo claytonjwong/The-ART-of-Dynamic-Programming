@@ -181,6 +181,7 @@ The **ART** of DP in 3 steps:
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/discuss/1231012/The-ART-of-Dynamic-Programming)
 * [1879. Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/discuss/1241903/The-ART-of-Dynamic-Programming)
 * [1884. Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/discuss/1249918/The-ART-of-Dynamic-Programming)
+* [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/discuss/1475113/The-ART-of-Dynamic-Programming)
 
 
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:

@@ -169,6 +169,7 @@ The **ART** of DP in 3 steps:
 * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/discuss/811237/Javascript-Python3-C%2B%2B-Top-Down-%2B-Bottom-Up)
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/discuss/292472/Javascript-Python3-C%2B%2B-Top-Down-%2B-Bottom-Up)
 * [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/652184/Javascript-and-C%2B%2B-solutions)
+* [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/discuss/345219/The-ART-of-Dynamic-Programming)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/discuss/713502/Javascript-and-C%2B%2B-solutions)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/discuss/1327645/The-ART-of-Dynamic-Programming)
 * [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1477025/The-ART-of-Dynamic-Programming)

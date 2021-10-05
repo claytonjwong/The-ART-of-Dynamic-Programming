@@ -139,6 +139,7 @@ The **ART** of DP in 3 steps:
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/discuss/635659/Javascript-and-C%2B%2B-solutions)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/discuss/22965/Javascript-and-C%2B%2B-solutions)
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/153003/The-ART-of-Dynamic-Programming)
+* [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/discuss/131943/The-ART-of-Dynamic-Programming)
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/discuss/479377/Javascript-and-C%2B%2B-solutions)
 * [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/117143/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/discuss/703865/Javascript-and-C%2B%2B-solutions)

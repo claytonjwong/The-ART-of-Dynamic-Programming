@@ -187,6 +187,13 @@ The **ART** of DP in 3 steps:
 * [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/discuss/1475113/The-ART-of-Dynamic-Programming)
 
 
+#### Kadane's Algorithm: Best Ending Here
+
+We can perform a linear scan tracking the optimal solution ending at a specific index via a dynamic programming technique similar to [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem).
+
+* [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/discuss/1521207/The-ART-of-Dynamic-Programming)
+
+
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:
 
 * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/discuss/512006/Javascript-and-C%2B%2B-solutions)
@@ -233,4 +240,3 @@ The **ART** of DP in 3 steps:
 > A major part of the art of dynamic programming is the appropriate choice of the subproblems that must be solved in order eventually to solve the given problem.
 >
 [-*The Art and Theory of Dynamic Programming* Dreyfus and Law (1977)](https://www.academia.edu/8817530/The_Art_and_Theory_of_Dynamic_Programming)
-

@@ -137,6 +137,7 @@ The **ART** of DP in 3 steps:
 [-*The Art and Theory of Dynamic Programming* Dreyfus and Law (1977)](https://www.academia.edu/8817530/The_Art_and_Theory_of_Dynamic_Programming)
 
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/discuss/635659/Javascript-and-C%2B%2B-solutions)
+* [55. Jump Game](https://leetcode.com/problems/jump-game/discuss/143388/The-ART-of-Dynamic-Programming)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/discuss/22965/Javascript-and-C%2B%2B-solutions)
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/153003/The-ART-of-Dynamic-Programming)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/discuss/131943/The-ART-of-Dynamic-Programming)

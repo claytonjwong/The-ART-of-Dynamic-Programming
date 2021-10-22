@@ -193,6 +193,7 @@ The **ART** of DP in 3 steps:
 
 We can perform a linear scan tracking the optimal solution ending at a specific index via a dynamic programming technique similar to [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem).
 
+* [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/discuss/561900/The-ART-of-Dynamic-Programming)
 * [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/discuss/1521207/The-ART-of-Dynamic-Programming)
 
 

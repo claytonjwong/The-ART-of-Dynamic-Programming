@@ -205,7 +205,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:
 
-* [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/discuss/512006/Javascript-and-C%2B%2B-solutions)
+* [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/discuss/1374857/The-ART-of-Dynamic-Programming)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/508260/A-few-solutions)
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/discuss/665390/Javascript-and-C%2B%2B-solutions)
 * [764. Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/discuss/113350/a-few-solutions)

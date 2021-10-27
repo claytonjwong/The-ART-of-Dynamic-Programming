@@ -223,6 +223,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:
 
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/discuss/1288770/The-ART-of-Dynamic-Programming)
+* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/787820/The-ART-of-Dynamic-Programming)
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/discuss/657068/Kt-Js-Py3-Cpp-Dynamic-Programming)
 * [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/discuss/439097/Javascript-and-C%2B%2B-solutions)
 

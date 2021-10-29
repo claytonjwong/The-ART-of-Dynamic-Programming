@@ -141,6 +141,7 @@ The **ART** of DP in 3 steps:
 * [55. Jump Game](https://leetcode.com/problems/jump-game/discuss/143388/The-ART-of-Dynamic-Programming)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/discuss/22965/The-ART-of-Dynamic-Programming)
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/153003/The-ART-of-Dynamic-Programming)
+* [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/discuss/23460/The-ART-of-Dynamic-Programming)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/discuss/131943/The-ART-of-Dynamic-Programming)
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/discuss/479377/Javascript-and-C%2B%2B-solutions)
 * [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/117143/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)

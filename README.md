@@ -217,6 +217,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/discuss/480496/The-ART-of-Dynamic-Programming)
 * [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/discuss/1267999/brute-force-best-magic)
 * [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/discuss/1444083/a-few-solutions)
+* [2055. Plates Between Candles](https://leetcode.com/problems/plates-between-candles/discuss/1549692/The-ART-of-Dynamic-Programming)
 
 
 #### Recurrence Relation to Minimize or Maximize an Objective Function:

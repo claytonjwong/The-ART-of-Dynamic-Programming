@@ -152,7 +152,7 @@ The **ART** of DP in 3 steps:
 * [140. Word Break II](https://leetcode.com/problems/word-break-ii/discuss/765548/Javascript-Python3-C%2B%2B-top-down-%2B-bottom-up-(partial))
 * [198. House Robber](https://leetcode.com/problems/house-robber/discuss/846461/Javascript-Python3-C%2B%2B-The-ART-of-Dynamic-Programming)
 * [213. House Robber II](https://leetcode.com/problems/house-robber-ii/discuss/894504/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
-* [221. Maximal Square](hhttps://leetcode.com/problems/maximal-square/discuss/600365/The-ART-of-Dynamic-Programming)
+* [221. Maximal Square](https://leetcode.com/problems/maximal-square/discuss/600365/The-ART-of-Dynamic-Programming)
 * [256. Paint House](https://leetcode.com/problems/paint-house/discuss/68202/The-ART-of-Dynamic-Programming)
 * [265. Paint House II](https://leetcode.com/problems/paint-house-ii/discuss/1249637/The-ART-of-Dynamic-Programming)
 * [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/discuss/708644/Javascript-and-C%2B%2B-solutions)

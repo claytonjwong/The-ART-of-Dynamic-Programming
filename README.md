@@ -114,11 +114,13 @@ The **ART** of DP in 3 steps:
 >
 [-Far Seer (Warcraft III)](https://wowpedia.fandom.com/wiki/Far_Seer_(Warcraft_III))
 
-Below is an oversimplified example which demonstrates the top-down solution's path (yellow + green) and the bottom-up solution's path (green).
+Below is an oversimplified example which demonstrates the top-down solution's path (highlighted in yellow and green) and the bottom-up solution's path (highlighted in green).
+
+We can "see" the downward staircase of recursive calls highlighted in yellow and the corresponding optimal solutions formulated in reverse as the recursive stack unwinds back up the staircase highlighted in green.
 
 ![](images/top-down_and_bottom-up.png)
 
-Each `i`<sup>th</sup> mental leap of faith from `i = 0..N-1` is highlighted in yellow as the recursive function `go()` invokes itself as a subroutine until the base case `N = 4` is reached.  As the recursive stack unwinds (highlighted in green), `i`<sup>th</sup> sub-problem solutions are optimally built upon themselves.  We arrive at the same answer at the `End`.
+Each `i`<sup>th</sup> mental leap of faith from `i = 0..N-1` is highlighted in yellow as the recursive function `go()` invokes itself as a subroutine until the base case `N = 4` is reached, ie. we recursively `go()` from `here` to `there` over and over again.  As the recursive stack unwinds (highlighted in green), `i`<sup>th</sup> sub-problem solutions are optimally built upon themselves.  And we arrive at the same answer at the `End`.
 
 The bottom-up solution has two key advantages over the top-down solution:
 1. No recursive stack overhead

@@ -163,7 +163,7 @@ The bottom-up solution has two key advantages over the top-down solution:
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/discuss/131943/The-ART-of-Dynamic-Programming)
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/discuss/479377/Javascript-and-C%2B%2B-solutions)
 * [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/117143/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
-* [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/discuss/703865/Javascript-and-C%2B%2B-solutions)
+* [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/discuss/703865/The-ART-of-Dynamic-Programming)
 * [97. Interleaving String](https://leetcode.com/problems/interleaving-string/discuss/1247180/The-ART-of-Dynamic-Programming)
 * [120. Triangle](https://leetcode.com/problems/triangle/discuss/38726/The-ART-of-Dynamic-Programming)
 * [139. Word Break](https://leetcode.com/problems/word-break/discuss/632205/Javascript-and-C%2B%2B-solutions)

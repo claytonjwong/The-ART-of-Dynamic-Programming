@@ -161,7 +161,7 @@ The bottom-up solution has two key advantages over the top-down solution:
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/153003/The-ART-of-Dynamic-Programming)
 * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/discuss/23460/The-ART-of-Dynamic-Programming)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/discuss/131943/The-ART-of-Dynamic-Programming)
-* [72. Edit Distance](https://leetcode.com/problems/edit-distance/discuss/479377/Javascript-and-C%2B%2B-solutions)
+* [72. Edit Distance](https://leetcode.com/problems/edit-distance/discuss/479377/The-ART-of-Dynamic-Programming)
 * [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/117143/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/discuss/703865/The-ART-of-Dynamic-Programming)
 * [97. Interleaving String](https://leetcode.com/problems/interleaving-string/discuss/1247180/The-ART-of-Dynamic-Programming)

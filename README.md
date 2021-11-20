@@ -181,6 +181,7 @@ The bottom-up solution has two key advantages over the top-down solution:
 * [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/946524/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/discuss/1134924/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/discuss/1584820/The-ART-of-Dynamic-Programming)
+* [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/discuss/1588390/The-ART-of-Dynamic-Programming)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/discuss/617275/Javascript-and-C%2B%2B-solutions)
 * [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/discuss/1147789/The-ART-of-Dynamic-Programming)
 * [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1583151/The-ART-of-Dynamic-Programming)

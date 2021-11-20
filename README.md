@@ -185,7 +185,7 @@ The bottom-up solution has two key advantages over the top-down solution:
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/discuss/617275/Javascript-and-C%2B%2B-solutions)
 * [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/discuss/1147789/The-ART-of-Dynamic-Programming)
 * [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1583151/The-ART-of-Dynamic-Programming)
-* [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/Javascript-and-C%2B%2B-solutions)
+* [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/The-ART-of-Dynamic-Programming)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/discuss/105742/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/916696/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/1586778/The-ART-of-Dynamic-Programming)

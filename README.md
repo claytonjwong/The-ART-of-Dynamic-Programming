@@ -231,6 +231,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/1535173/The-ART-of-Dynamic-Programming)
 * [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/discuss/1540576/the-art-of-dynamic-programming)
 * [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/discuss/1536710/The-ART-of-Dynamic-Programming)
+* [1746. Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/discuss/1602830/The-ART-of-Dynamic-Programming)
 * [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/discuss/1549443/the-art-of-dynamic-programming)
 
 

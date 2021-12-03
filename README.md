@@ -205,6 +205,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/discuss/345219/The-ART-of-Dynamic-Programming)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/discuss/713502/Javascript-and-C%2B%2B-solutions)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/discuss/1327645/The-ART-of-Dynamic-Programming)
+* [1230. Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/discuss/1609878/The-ART-of-Dynamic-Programming)
 * [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1477025/The-ART-of-Dynamic-Programming)
 * [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/discuss/1597586/The-ART-of-Dynamic-Programming)
 * [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/discuss/657825/Javascript-and-C%2B%2B-solutions)

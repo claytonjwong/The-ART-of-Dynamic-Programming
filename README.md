@@ -48,7 +48,7 @@ There are two key ingredients to problems which can be solved by a [Dynamic Prog
 
 These 3 steps are elaborated upon below, however, let us first take a minute to consider our end-goal, and how we can intuitively reach it.  Our end-goal is to minimize or maximize an objective function within the given constraints of an arbitrary universe of discourse (ie. the problem statement).
 
-**Ask yourself this question:** Is it possible to know the minimum or maximum objective function outcome without considering all possibilities?  For example, let's say we have 3 numbers, and we want to know what is the minimum or maximum of those 3 numbers.  Is it possible to know the minimum or maximum value *without* considering <b>all</b> of the card values?  Please take a moment to consider this question before proceeding.
+**Ask yourself this question:** Is it possible to know the minimum or maximum objective function outcome without considering all possibilities?  For example, let's say we have 3 numbers, and we want to know what is the minimum or maximum of those 3 numbers.  Is it possible to know the minimum or maximum value *without* considering <b>all</b> of the numbers?  Please take a moment to consider this question before proceeding.
 
 <details><summary>See Answer</summary>
 <p>

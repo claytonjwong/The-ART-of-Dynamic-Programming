@@ -269,6 +269,18 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/discuss/439097/Javascript-and-C%2B%2B-solutions)
 
 
+## Subproblems and Recurrence Relations
+
+> You have only begun to understand your power.
+>
+[-Darth Vader](https://en.wikipedia.org/wiki/Darth_Vader)
+
+The most difficult part of dynamic programming is acquiring an understanding of a problem's subproblems and recurrence relations.  It's amazing how difficult it can be to formulate DP solutions de novo with foresight conjured upon demand compared to validating existing DP solutions in hindsight.  To develop a DP solution from scratch requires the creation of historical state variables and a series of states from which we consider all possibilities we can optimally choose from via recurrence relations which optimally build current subproblem solutions upon previous optional subproblem solutions, ie. it is easier said than done.
+
+> Ignorance more frequently begets confidence than does knowledge.
+>
+[-Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin)
+
 ## Resources
 
 * [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
@@ -287,9 +299,3 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [Introduction to Algorithms: Cormen-Leiserson-Rivest-Stein ( 2009 )](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 * [Discrete Probability](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability)
 * [Mathematical Proofs](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Mathematical_Proofs)
-
-## Auxillary
-
-> A major part of the art of dynamic programming is the appropriate choice of the subproblems that must be solved in order eventually to solve the given problem.
->
-[-*The Art and Theory of Dynamic Programming* Dreyfus and Law (1977)](https://www.academia.edu/8817530/The_Art_and_Theory_of_Dynamic_Programming)

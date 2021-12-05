@@ -275,7 +275,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 >
 [-Darth Vader](https://en.wikipedia.org/wiki/Darth_Vader)
 
-The most difficult part of dynamic programming is acquiring an understanding of a problem's subproblems and recurrence relations.  It's amazing how difficult it can be to formulate DP solutions de novo with foresight conjured upon demand compared to validating existing DP solutions in hindsight.  To develop a DP solution from scratch requires the creation of historical state variables and a series of states from which we consider all possibilities we can optimally choose from via recurrence relations which optimally build current subproblem solutions upon previous optional subproblem solutions, ie. it is easier said than done.
+The most difficult part of dynamic programming is acquiring an understanding of a problem's subproblems and recurrence relations.  It's amazing how difficult it can be to formulate DP solutions de novo with foresight conjured upon demand compared to validating existing DP solutions in hindsight.  To develop a DP solution from scratch requires the creation of historical state variables and a series of states from which we consider all possibilities we can optimally choose from via recurrence relations which optimally build current subproblem solutions upon previous optimal subproblem solutions, ie. it is easier said than done.
 
 > Ignorance more frequently begets confidence than does knowledge.
 >

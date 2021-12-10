@@ -230,6 +230,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1540591/The-ART-of-Dynamic-Programming)
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/1540602/The-ART-of-Dynamic-Programming)
 * [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/discuss/1535477/The-ART-of-Dynamic-Programming)
+* [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/1622231/The-ART-of-Dynamic-Programming)
 * [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/discuss/1456210/The-ART-of-Dynamic-Programming)
 * [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/discuss/1601682/The-ART-of-Dynamic-Programming)
 * [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/discuss/1521207/The-ART-of-Dynamic-Programming)

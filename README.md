@@ -191,6 +191,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1583151/The-ART-of-Dynamic-Programming)
 * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/The-ART-of-Dynamic-Programming)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/discuss/105742/The-ART-of-Dynamic-Programming)
+* [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/discuss/1625343/The-ART-of-Dynamic-Programming)
 * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/916696/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/discuss/1606340/The-ART-of-Dynamic-Programming)
 * [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/1586778/The-ART-of-Dynamic-Programming)

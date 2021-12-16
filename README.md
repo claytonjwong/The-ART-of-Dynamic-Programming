@@ -235,6 +235,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/1622231/The-ART-of-Dynamic-Programming)
 * [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/discuss/1456210/The-ART-of-Dynamic-Programming)
 * [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/discuss/1601682/The-ART-of-Dynamic-Programming)
+* [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/discuss/104653/The-ART-of-Dynamic-Programming)
 * [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/discuss/1521207/The-ART-of-Dynamic-Programming)
 * [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/1535173/The-ART-of-Dynamic-Programming)
 * [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/discuss/1540576/the-art-of-dynamic-programming)

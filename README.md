@@ -171,7 +171,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [139. Word Break](https://leetcode.com/problems/word-break/discuss/632205/Javascript-and-C%2B%2B-solutions)
 * [140. Word Break II](https://leetcode.com/problems/word-break-ii/discuss/765548/Javascript-Python3-C%2B%2B-top-down-%2B-bottom-up-(partial))
 * [198. House Robber](https://leetcode.com/problems/house-robber/discuss/846461/Javascript-Python3-C%2B%2B-The-ART-of-Dynamic-Programming)
-* [213. House Robber II](https://leetcode.com/problems/house-robber-ii/discuss/894504/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
+* [213. House Robber II](https://leetcode.com/problems/house-robber-ii/discuss/894504/The-ART-of-Dynamic-Programming)
 * [221. Maximal Square](https://leetcode.com/problems/maximal-square/discuss/600365/The-ART-of-Dynamic-Programming)
 * [256. Paint House](https://leetcode.com/problems/paint-house/discuss/68202/The-ART-of-Dynamic-Programming)
 * [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/discuss/719537/The-ART-of-Dynamic-Programming)
@@ -255,16 +255,12 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [764. Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/discuss/113350/a-few-solutions)
 * [1139. Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/discuss/681894/Javascript-and-C%2B%2B-solutions)
 * [1182. Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/discuss/401165/The-ART-of-Dynamic-Programming)
+* [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/442151/The-ART-of-Dynamic-Programming)
 * [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/discuss/480496/The-ART-of-Dynamic-Programming)
 * [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/discuss/1267999/brute-force-best-magic)
 * [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/discuss/1444083/a-few-solutions)
 * [2055. Plates Between Candles](https://leetcode.com/problems/plates-between-candles/discuss/1549692/The-ART-of-Dynamic-Programming)
 * [2100. Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/discuss/1623340/The-ART-of-Dynamic-Programming)
-
-
-#### Recurrence Relation to Minimize or Maximize an Objective Function:
-
-* [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/442151/Javascript-and-C%2B%2B-solutions)
 
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:
@@ -290,7 +286,7 @@ The most difficult part of dynamic programming is acquiring an understanding of 
 
 * [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
 * [Competitive Programmer's Core Skills by Saint Petersburg State University](https://claytonjwong.github.io/competitive-programming/)
-* [Algorithms by Standford University](https://claytonjwong.github.io/Algorithms-Stanford/)
+* [Algorithms by Stanford University](https://claytonjwong.github.io/Algorithms-Stanford/)
 * [Algorithms and Data Structures by UC San Diego](https://claytonjwong.github.io/Algorithms-UCSanDiego/)
 * [Algorithms for DNA Sequencing](https://claytonjwong.github.io/Algorithms-DNA-Sequencing/)
 * [Master Theorem: Determine the asymptotic bound of recursive algorithms via standard recurrences](https://claytonjwong.github.io/Master-Theorem/)

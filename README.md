@@ -242,7 +242,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/discuss/1536710/The-ART-of-Dynamic-Programming)
 * [1746. Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/discuss/1602830/The-ART-of-Dynamic-Programming)
 * [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/discuss/1549443/the-art-of-dynamic-programming)
-
+* [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/discuss/1634993/the-art-of-dynamic-programming)
 
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:
 

@@ -194,6 +194,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1583151/The-ART-of-Dynamic-Programming)
 * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/The-ART-of-Dynamic-Programming)
 * [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/discuss/1660106/The-ART-of-Dynamic-Programming)
+* [568. Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/discuss/1671107/The-ART-of-Dynamic-Programming)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/discuss/105742/The-ART-of-Dynamic-Programming)
 * [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/discuss/1625343/The-ART-of-Dynamic-Programming)
 * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/916696/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)

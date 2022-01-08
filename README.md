@@ -217,7 +217,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/discuss/1597586/The-ART-of-Dynamic-Programming)
 * [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/discuss/657825/Javascript-and-C%2B%2B-solutions)
 * [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/discuss/653625/Javascript-and-C%2B%2B-solutions)
-* [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/discuss/660828/Javascript-and-C%2B%2B-solutions)
+* [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/discuss/660828/The-ART-of-Dynamic-Programming)
 * [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/discuss/695337/Javascript-and-C%2B%2B-solutions)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/discuss/737869/javascript-python3-c)
 * [1690. Stone Game VII](https://leetcode.com/problems/stone-game-vii/discuss/1265150/The-ART-of-Dynamic-Programming)

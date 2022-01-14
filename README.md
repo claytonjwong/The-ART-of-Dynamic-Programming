@@ -265,6 +265,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/discuss/1444083/a-few-solutions)
 * [2055. Plates Between Candles](https://leetcode.com/problems/plates-between-candles/discuss/1549692/The-ART-of-Dynamic-Programming)
 * [2100. Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/discuss/1623340/The-ART-of-Dynamic-Programming)
+* [2132. Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/discuss/1690137/The-ART-of-Dynamic-Programming)
 
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:

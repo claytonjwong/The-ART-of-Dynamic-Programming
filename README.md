@@ -270,6 +270,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/discuss/1683185/The-ART-of-Dynamic-Programming)
 * [2100. Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/discuss/1623340/The-ART-of-Dynamic-Programming)
 * [2132. Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/discuss/1690137/The-ART-of-Dynamic-Programming)
+* [2155. All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/discuss/1731659/The-ART-of-Dynamic-Programming)
 
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:

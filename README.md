@@ -257,6 +257,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/508260/The-ART-of-Dynamic-Programming)
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/discuss/665390/Javascript-and-C%2B%2B-solutions)
 * [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/discuss/1625489/The-ART-of-Dynamic-Programming)
+* [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/discuss/592292/The-ART-of-Dynamic-Programming)
 * [562. Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/discuss/1619862/The-ART-of-Dynamic-Programming)
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/discuss/1611190/The-ART-of-Dynamic-Programming)
 * [764. Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/discuss/113350/The-ART-of-Dynamic-Programming)

@@ -228,6 +228,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [1884. Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/discuss/1249918/The-ART-of-Dynamic-Programming)
 * [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/discuss/1475113/The-ART-of-Dynamic-Programming)
 * [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/discuss/1702845/The-ART-of-Dynamic-Programming)
+* [2209. Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/discuss/1871574/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

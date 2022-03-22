@@ -229,6 +229,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/discuss/1475113/The-ART-of-Dynamic-Programming)
 * [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/discuss/1702845/The-ART-of-Dynamic-Programming)
 * [2209. Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/discuss/1871574/The-ART-of-Dynamic-Programming)
+* [2212. Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/discuss/1873713/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

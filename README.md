@@ -208,6 +208,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/discuss/186646/The-ART-of-Dynamic-Programming)
 * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/discuss/811237/Javascript-Python3-C%2B%2B-Top-Down-%2B-Bottom-Up)
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/discuss/292472/Javascript-Python3-C%2B%2B-Top-Down-%2B-Bottom-Up)
+* [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/discuss/1883096/The-ART-of-Dynamic-Programming)
 * [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/652184/The-ART-of-Dynamic-Programming)
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/discuss/345219/The-ART-of-Dynamic-Programming)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/discuss/713502/Javascript-and-C%2B%2B-solutions)

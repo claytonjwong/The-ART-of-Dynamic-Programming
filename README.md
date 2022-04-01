@@ -279,6 +279,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2155. All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/discuss/1731659/The-ART-of-Dynamic-Programming)
 * [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/discuss/1755896/The-ART-of-Dynamic-Programming)
 * [2167. Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/discuss/1763255/The-ART-of-Dynamic-Programming)
+* [2219. Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/discuss/1903842/The-ART-of-Dynamic-Programming)
 
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:

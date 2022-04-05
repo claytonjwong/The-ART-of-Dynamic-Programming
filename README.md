@@ -305,7 +305,7 @@ The most difficult part of dynamic programming is acquiring an understanding of 
 
 ## Resources
 
-* [The ART of Dynamic Programming](https://claytonjwong.github.io/The-ART-of-Dynamic-Programming/)
+* [Algorithms Illuminated](https://github.com/claytonjwong/Algorithms-Illuminated)
 * [Competitive Programmer's Core Skills by Saint Petersburg State University](https://claytonjwong.github.io/competitive-programming/)
 * [Algorithms by Stanford University](https://claytonjwong.github.io/Algorithms-Stanford/)
 * [Algorithms and Data Structures by UC San Diego](https://claytonjwong.github.io/Algorithms-UCSanDiego/)

@@ -232,6 +232,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2209. Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/discuss/1871574/The-ART-of-Dynamic-Programming)
 * [2212. Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/discuss/1873713/The-ART-of-Dynamic-Programming)
 * [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/discuss/1901776/The-ART-of-Dynamic-Programming)
+* [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/discuss/1964309/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

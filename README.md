@@ -148,7 +148,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * ✅ **With**
     * "include this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each `i`<sup>th</sup> item
 * 🚫 **Without**
-    * "disclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each `i`<sup>th</sup> item
+    * "exclude this item" concept used for 0-1 knapsack algorithms where we find the optimal solution by either including xor discluding each `i`<sup>th</sup> item
 * ❌ **Exit Conditions**
     * We can exit early under non-optimal conditions (ie. depth-first-search pruning) or for invalid inputs (ie. out-of-bounds)
 

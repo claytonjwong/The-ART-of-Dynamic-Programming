@@ -285,6 +285,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2167. Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/discuss/1763255/The-ART-of-Dynamic-Programming)
 * [2219. Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/discuss/1903842/The-ART-of-Dynamic-Programming)
 * [2222. Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/discuss/1911959/The-ART-of-Dynamic-Programming)
+* [2247. Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/discuss/2084932/The-ART-of-Dynamic-Programming)
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/discuss/2080203/The-ART-of-Dynamic-Programming)
 
 

@@ -235,6 +235,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/discuss/1901776/The-ART-of-Dynamic-Programming)
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/discuss/1964309/The-ART-of-Dynamic-Programming)
 * [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/discuss/2136366/The-ART-of-Dynamic-Programming)
+* [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/discuss/2148689/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

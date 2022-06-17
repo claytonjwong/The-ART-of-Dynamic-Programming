@@ -236,6 +236,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/discuss/1901776/The-ART-of-Dynamic-Programming)
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/discuss/1964309/The-ART-of-Dynamic-Programming)
 * [2247. Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/discuss/2084932/The-ART-of-Dynamic-Programming)
+* [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/discuss/2080203/The-ART-of-Dynamic-Programming)
 * [2267. Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/discuss/2162698/The-ART-of-Dynamic-Programming)
 * [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/discuss/2136366/The-ART-of-Dynamic-Programming)
 * [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/discuss/2148689/The-ART-of-Dynamic-Programming)

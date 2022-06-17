@@ -170,7 +170,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/discuss/703865/The-ART-of-Dynamic-Programming)
 * [97. Interleaving String](https://leetcode.com/problems/interleaving-string/discuss/1247180/The-ART-of-Dynamic-Programming)
 * [120. Triangle](https://leetcode.com/problems/triangle/discuss/38726/The-ART-of-Dynamic-Programming)
-* [139. Word Break](https://leetcode.com/problems/word-break/discuss/632205/Javascript-and-C%2B%2B-solutions)
+* [139. Word Break](https://leetcode.com/problems/word-break/discuss/632205/The-ART-of-Dynamic-Programming)
 * [140. Word Break II](https://leetcode.com/problems/word-break-ii/discuss/765548/Javascript-Python3-C%2B%2B-top-down-%2B-bottom-up-(partial))
 * [198. House Robber](https://leetcode.com/problems/house-robber/discuss/846461/Javascript-Python3-C%2B%2B-The-ART-of-Dynamic-Programming)
 * [213. House Robber II](https://leetcode.com/problems/house-robber-ii/discuss/894504/The-ART-of-Dynamic-Programming)

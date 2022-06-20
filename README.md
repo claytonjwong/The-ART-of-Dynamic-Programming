@@ -303,6 +303,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/discuss/544568/The-ART-of-Dynamic-Programming)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/discuss/1214546/The-ART-of-Dynamic-Programming)
 * [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/discuss/439097/Javascript-and-C%2B%2B-solutions)
+* [1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/discuss/2175291/The-ART-of-Dynamic-Programming)
 * [2121. Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/discuss/1657201/The-ART-of-Dynamic-Programming)
 
 

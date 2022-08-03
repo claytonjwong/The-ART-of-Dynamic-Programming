@@ -242,6 +242,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/discuss/2136366/The-ART-of-Dynamic-Programming)
 * [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/discuss/2148689/The-ART-of-Dynamic-Programming)
 * [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/discuss/2238522/The-ART-of-Dynamic-Programming)
+* [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/discuss/2375565/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

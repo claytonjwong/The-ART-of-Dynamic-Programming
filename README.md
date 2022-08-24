@@ -195,6 +195,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/discuss/1147789/The-ART-of-Dynamic-Programming)
 * [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1583151/The-ART-of-Dynamic-Programming)
 * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/677893/The-ART-of-Dynamic-Programming)
+* [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/discuss/2473918/The-ART-of-Dynamic-Programming)
 * [568. Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/discuss/1671107/The-ART-of-Dynamic-Programming)
 * [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/discuss/1660106/The-ART-of-Dynamic-Programming)
 * [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/discuss/2151454/The-ART-of-Dynamic-Programming)

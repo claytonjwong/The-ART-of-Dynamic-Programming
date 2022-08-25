@@ -302,6 +302,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2247. Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/discuss/2084932/The-ART-of-Dynamic-Programming)
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/discuss/2080203/The-ART-of-Dynamic-Programming)
 * [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/discuss/2269717/The-ART-of-Dynamic-Programming)
+* [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/discuss/2454230/The-ART-of-Dynamic-Programming)
 
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:

@@ -271,6 +271,8 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/discuss/1634993/the-art-of-dynamic-programming)
 * [2262. Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/discuss/2014150/The-ART-of-Dynamic-Programming)
 * [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/discuss/2250957/The-ART-of-Dynamic-Programming)
+* [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/discuss/2540660/The-ART-of-Dynamic-Programming)
+
 
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:
 

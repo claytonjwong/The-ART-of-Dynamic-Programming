@@ -335,6 +335,10 @@ The most difficult part of dynamic programming is acquiring an understanding of 
 
 ## Resources
 
+> If you strike me down, I shall become more powerful than you can possibly imagine.
+>
+[-Obi-Wan Kenobi](https://en.wikipedia.org/wiki/Obi-Wan_Kenobi)
+
 * [Algorithms Illuminated](https://github.com/claytonjwong/Algorithms-Illuminated)
 * [Competitive Programmer's Core Skills by Saint Petersburg State University](https://claytonjwong.github.io/competitive-programming/)
 * [Algorithms by Stanford University](https://claytonjwong.github.io/Algorithms-Stanford/)

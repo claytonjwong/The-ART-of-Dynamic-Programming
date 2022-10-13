@@ -248,6 +248,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/discuss/2375565/The-ART-of-Dynamic-Programming)
 * [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/discuss/2390450/The-ART-of-Dynamic-Programming)
 * [2400. Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/discuss/2534831/a-few-solutions)
+* [2431. Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/discuss/2699915/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

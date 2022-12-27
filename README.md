@@ -298,6 +298,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [1182. Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/discuss/401165/The-ART-of-Dynamic-Programming)
 * [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/442151/The-ART-of-Dynamic-Programming)
 * [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/discuss/480496/The-ART-of-Dynamic-Programming)
+* [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/discuss/541816/The-ART-of-Dynamic-Programming)
 * [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/discuss/1267999/brute-force-best-magic)
 * [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/discuss/1444083/a-few-solutions)
 * [2049. Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/discuss/1537470/The-ART-of-Dynamic-Programming)

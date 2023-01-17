@@ -294,6 +294,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/discuss/1353112/The-ART-of-Dynamic-Programming)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/137957/The-ART-of-Dynamic-Programming)
 * [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/1920122/The-ART-of-Dynamic-Programming)
+* [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/186590/The-ART-of-Dynamic-Programming)
 * [1139. Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/discuss/681894/Javascript-and-C%2B%2B-solutions)
 * [1182. Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/discuss/401165/The-ART-of-Dynamic-Programming)
 * [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/442151/The-ART-of-Dynamic-Programming)

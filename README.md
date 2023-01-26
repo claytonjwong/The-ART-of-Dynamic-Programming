@@ -328,6 +328,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/discuss/657068/The-ART-of-Dynamic-Programming)
 * [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/discuss/2746208/The-ART-of-Dynamic-Programming)
 * [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/discuss/106498/The-ART-of-Dynamic-Programming)
+* [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/3090080/The-ART-of-Dynamic-Programming)
 * [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/discuss/544568/The-ART-of-Dynamic-Programming)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/discuss/1214546/The-ART-of-Dynamic-Programming)
 * [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/discuss/439097/Javascript-and-C%2B%2B-solutions)

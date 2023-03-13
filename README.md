@@ -350,6 +350,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/discuss/2490816/The-ART-of-Dynamic-Programming)
 * [2370. Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/discuss/2398567/The-ART-of-Dynamic-Programming)
 * [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/discuss/3256118/The-ART-of-Dynamic-Programming)
+* [2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/discuss/3288566/The-ART-of-Dynamic-Programming)
 
 
 ## Subproblems and Recurrence Relations

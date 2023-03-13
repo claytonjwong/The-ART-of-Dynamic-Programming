@@ -327,6 +327,8 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/discuss/2860657/The-ART-of-Dynamic-Programming)
 * [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/discuss/2890914/a-few-solutions)
 * [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/discuss/3236335/a-few-solutions)
+* [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/discuss/3288490/The-ART-of-Dynamic-Programming)
+
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:
 

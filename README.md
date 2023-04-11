@@ -331,6 +331,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/discuss/3236335/a-few-solutions)
 * [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/discuss/3288490/The-ART-of-Dynamic-Programming)
 * [2602. Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/discuss/3348375/The-ART-of-Dynamic-Programming)
+* [2609. Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/discuss/3375188/The-ART-of-Dynamic-Programming)
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:
 

@@ -255,6 +255,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2556. Disconnect Path in a Binary Matrix by at Most One Flip](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/discuss/3141457/The-ART-of-Dynamic-Programming)
 * [2581. Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/discuss/3270368/The-ART-of-Dynamic-Programming)
 * [2585. Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/discuss/3266399/The-ART-of-Dynamic-Programming)
+* [2646. Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/discuss/3439456/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

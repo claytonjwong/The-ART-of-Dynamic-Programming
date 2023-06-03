@@ -288,6 +288,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2414. Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/discuss/2618498/The-ART-of-Dynamic-Programming)
 * [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/discuss/2916014/The-ART-of-Dynamic-Programming)
 * [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/discuss/3562295/The-ART-of-Dynamic-Programming)
+* [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/discuss/3591086/The-ART-of-Dynamic-Programming)
 
 
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:

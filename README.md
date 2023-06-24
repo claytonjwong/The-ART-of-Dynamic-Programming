@@ -259,6 +259,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2646. Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/discuss/3439456/The-ART-of-Dynamic-Programming)
 * [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/discuss/3531114/The-ART-of-Dynamic-Programming)
 * [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/discuss/3568715/The-ART-of-Dynamic-Programming)
+* [2745. Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/discuss/3677498/The-ART-of-Dynamic-Programming)
 
 #### Kadane's Algorithm: Best Ending Here
 

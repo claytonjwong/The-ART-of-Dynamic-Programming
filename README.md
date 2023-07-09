@@ -261,6 +261,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/discuss/3568715/The-ART-of-Dynamic-Programming)
 * [2745. Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/discuss/3677498/The-ART-of-Dynamic-Programming)
 * [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/discuss/3678733/The-ART-of-Dynamic-Programming)
+* [2767. Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/discuss/3737063/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

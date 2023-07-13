@@ -358,6 +358,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/discuss/1288770/The-ART-of-Dynamic-Programming)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/787820/The-ART-of-Dynamic-Programming)
+* [207. Course Schedule](https://leetcode.com/problems/course-schedule/discuss/126917/The-ART-of-Dynamic-Programming)
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/discuss/657068/The-ART-of-Dynamic-Programming)
 * [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/discuss/2746208/The-ART-of-Dynamic-Programming)
 * [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/discuss/106498/The-ART-of-Dynamic-Programming)

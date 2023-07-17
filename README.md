@@ -350,6 +350,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2659. Make Array Empty](https://leetcode.com/problems/make-array-empty/discuss/3490150/The-ART-of-Dynamic-Programming)
 * [2680. Maximum OR](https://leetcode.com/problems/maximum-or/discuss/3528755/The-ART-of-Dynamic-Programming)
 * [2711. Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/discuss/3576060/The-ART-of-Dynamic-Programming)
+* [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/discuss/3779138/The-ART-of-Dynamic-Programming)
 
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:

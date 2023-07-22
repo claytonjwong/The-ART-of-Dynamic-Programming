@@ -378,6 +378,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/discuss/3288566/The-ART-of-Dynamic-Programming)
 * [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/discuss/3405548/The-ART-of-Dynamic-Programming)
 * [2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/discuss/3630962/The-ART-of-Dynamic-Programming)
+* [2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/discuss/3801798/The-ART-of-Dynamic-Programming)
 
 
 ## Subproblems and Recurrence Relations

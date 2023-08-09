@@ -1,9 +1,9 @@
 # 🎨  The ART of Dynamic Programming
 ## An Intuitive Approach: From Apprentice to Master
 
-> When I left you, I was but the learner, now I am the master.
+> Creativity is allowing yourself to make mistakes.  Art is knowing which ones to keep.
 >
-[-Darth Vader](https://en.wikipedia.org/wiki/Darth_Vader)
+[-Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams)
 
 Let us explore the intuitions of dynamic programming and transform our thoughts from "what the hell?" to "oh yeah, duh!" via a 3-step heuristic process.  In hindsight, we can "see" the **ART** of dynamic programming is as easy as 1, 2, 3. 👍
 

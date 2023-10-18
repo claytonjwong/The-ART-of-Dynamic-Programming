@@ -299,6 +299,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/discuss/3562295/The-ART-of-Dynamic-Programming)
 * [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/discuss/3591086/The-ART-of-Dynamic-Programming)
 * [2830. Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/discuss/3936896/The-ART-of-Dynamic-Programming)
+* [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/discuss/4183760/The-ART-of-Dynamic-Programming)
 
 
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:

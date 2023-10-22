@@ -287,6 +287,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/discuss/1540576/the-art-of-dynamic-programming)
 * [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/399886/The-ART-of-Dynamic-Programming)
 * [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/discuss/538986/The-ART-of-Dynamic-Programming)
+* [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/discuss/4193700/The-ART-of-Dynamic-Programming)
 * [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/discuss/1536710/The-ART-of-Dynamic-Programming)
 * [1746. Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/discuss/1602830/The-ART-of-Dynamic-Programming)
 * [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/discuss/1549443/the-art-of-dynamic-programming)

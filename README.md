@@ -209,6 +209,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/discuss/1325833/The-ART-of-Dynamic-Programming)
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/discuss/110111/The-ART-of-dynamic-programming)
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/690997/Javascript-and-C%2B%2B-solutions)
+* [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/discuss/4208832/The-ART-of-Dynamic-Programming)
 * [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/discuss/118694/Kt-Js-Py3-Cpp-The-ART-of-Dynamic-Programming)
 * [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/discuss/126261/The-ART-of-Dynamic-Programming)
 * [877. Stone Game](https://leetcode.com/problems/stone-game/discuss/706734/Javascript-and-C%2B%2B-solutions)

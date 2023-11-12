@@ -267,6 +267,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2767. Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/discuss/3737063/The-ART-of-Dynamic-Programming)
 * [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/discuss/3741319/The-ART-of-Dynamic-Programming)
 * [2826. Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/discuss/3963615/The-ART-of-Dynamic-Programming)
+* [2928. Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/discuss/4277848/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

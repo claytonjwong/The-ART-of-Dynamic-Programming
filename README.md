@@ -269,6 +269,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2826. Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/discuss/3963615/The-ART-of-Dynamic-Programming)
 * [2928. Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/discuss/4277848/The-ART-of-Dynamic-Programming)
 * [2944. Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/discuss/4337004/The-ART-of-Dynamic-Programming)
+* [2957. Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/discuss/4382544/The-ART-of-Dynamic-Programming)
 
 
 #### Kadane's Algorithm: Best Ending Here

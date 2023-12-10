@@ -389,6 +389,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/discuss/3630962/The-ART-of-Dynamic-Programming)
 * [2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/discuss/3801798/The-ART-of-Dynamic-Programming)
 * [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/discuss/4109940/The-ART-of-Dynamic-Programming)
+* [2959. Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/discuss/4382664/The-ART-of-Dynamic-Programming)
 
 
 ## Subproblems and Recurrence Relations

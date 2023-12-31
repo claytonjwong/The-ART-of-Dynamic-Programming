@@ -407,6 +407,15 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 The most difficult part of dynamic programming is acquiring an understanding of a problem's subproblems and recurrence relations.  It's amazing how difficult it can be to formulate DP solutions de novo with foresight conjured upon demand compared to validating existing DP solutions in hindsight.  To develop a DP solution from scratch requires the creation of historical state variables and a series of states from which we consider all possibilities we can optimally choose from via recurrence relations which optimally build current subproblem solutions upon previous optimal subproblem solutions, ie. it is easier said than done.
 
 
+## Dynamic is NOT static
+
+> I can only show you the door.  You're the one that has to walk through it.
+>
+[-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
+
+A few of us will truly understand that 99% of a DP problem is sufficient focused awareness which fundamentally enables the realization that the problem is indeed a DP problem!  I have seen so many DP lists, formulas, and patterns, etc. being passed around for memorization -- but how is it helpful to study static content in a dynamic context?!  It is dynamic programming because it is NOT static programming!  And I strongly feel these folks have completely missed the entire point of DP exercises.
+
+
 ## Resources
 
 > If you strike me down, I shall become more powerful than you can possibly imagine.

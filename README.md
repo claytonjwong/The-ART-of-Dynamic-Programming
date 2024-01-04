@@ -120,13 +120,18 @@ Below is an oversimplified example which demonstrates the top-down solution's pa
 
 We can "see" the downward staircase of recursive calls highlighted in yellow and the corresponding optimal solutions formulated in reverse as the recursive stack unwinds back up the staircase highlighted in green.
 
-> True poets lead no one unawares.  It is nothing other than awarness that poets - that is, creators of all sorts - seek.  They do not display their art so as to make it appear real; they display the real in a way that reveals it to be art.
+
+> You have to let it all go, Neo - fear, doubt, and disbelief...  **Free your mind.**
 >
-[-James P. Carse](https://en.wikipedia.org/wiki/James_P._Carse)
+[-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
 ![](images/top-down_and_bottom-up.png)
 
 Each `i`<sup>th</sup> mental leap of faith from `i = 0..N-1` is highlighted in yellow as the recursive function `go()` invokes itself as a subroutine until the base case `N = 4` is reached, ie. we recursively `go()` from `here` to `there` over and over again.  As the recursive stack unwinds (highlighted in green), `i`<sup>th</sup> sub-problem solutions are optimally built upon themselves.  And we arrive at the same answer at the `End`.
+
+> True poets lead no one unawares.  It is nothing other than awarness that poets - that is, creators of all sorts - seek.  They do not display their art so as to make it appear real; they display the real in a way that reveals it to be art.
+>
+[-James P. Carse](https://en.wikipedia.org/wiki/James_P._Carse)
 
 The bottom-up solution has two key advantages over the top-down solution:
 1. No recursive stack overhead

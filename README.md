@@ -280,6 +280,7 @@ It's worth noting that we can perform linear scans from the top-down solutions f
 * [2928. Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/discuss/4277848/The-ART-of-Dynamic-Programming)
 * [2944. Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/discuss/4337004/The-ART-of-Dynamic-Programming)
 * [2957. Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/discuss/4382544/The-ART-of-Dynamic-Programming)
+* [3040. Maximum Number of Operations With the Same Score II](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/solutions/4742383/the-art-of-dynamic-programming/)
 
 
 #### Kadane's Algorithm: Best Ending Here

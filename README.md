@@ -374,6 +374,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/discuss/3779138/The-ART-of-Dynamic-Programming)
 * [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/solutions/4732191/the-art-of-dynamic-programming/)
 * [3070. Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/solutions/4839042/the-art-of-dynamic-programming/)
+* [3096. Minimum Levels to Gain More Points](https://leetcode.com/problems/minimum-levels-to-gain-more-points/solutions/5077784/the-art-of-dynamic-programming/)
 
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:

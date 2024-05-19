@@ -378,6 +378,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [3096. Minimum Levels to Gain More Points](https://leetcode.com/problems/minimum-levels-to-gain-more-points/solutions/5077784/the-art-of-dynamic-programming/)
 * [3128. Right Triangles](https://leetcode.com/problems/right-triangles/solutions/5080684/the-art-of-dynamic-programming/)
 * [3147. Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/solutions/5149354/the-art-of-dynamic-programming/)
+* [3148. Maximum Difference Score in a Grid](https://leetcode.com/problems/maximum-difference-score-in-a-grid/solutions/5149652/the-art-of-dynamic-programming/)
 
 
 #### Bottom-Up Sequentially Building Upon "K-th Buckets" of Previous Solutions:

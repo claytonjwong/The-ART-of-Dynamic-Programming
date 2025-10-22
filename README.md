@@ -318,6 +318,7 @@ We can perform a linear scan tracking the optimal solution ending at a specific 
 * [2830. Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/discuss/3936896/The-ART-of-Dynamic-Programming)
 * [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/discuss/4183760/The-ART-of-Dynamic-Programming)
 * [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/discuss/4336947/a-few-solutions)
+* [3349. Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/solutions/7282232/the-art-of-dynamic-programming-by-clayto-c3yg/)
 
 
 #### Recurrence Relation to Reduce Asymptotic Bounds via Pre-calculations:

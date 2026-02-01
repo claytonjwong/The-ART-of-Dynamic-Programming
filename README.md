@@ -441,6 +441,10 @@ The most difficult part of dynamic programming is acquiring an understanding of 
 
 ## Supplemental Resources
 
+> Tank, load the jump program.
+>
+[-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
+
 * [Mathematics for Computer Science](https://github.com/claytonjwong/Algorithms-Stanford/raw/master/documentation/mcs.pdf)
 * [Algorithms: Dasgupta-Papadimitriou-Vazirani ( 2006 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Dasgupta-Papadimitriou-Vazirani.pdf)
 * [Algorithms and Data Structures: Mehlhorn-Sanders ( 2007 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Mehlhorn-Sanders-Toolbox.pdf)

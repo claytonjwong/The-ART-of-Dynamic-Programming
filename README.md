@@ -120,12 +120,15 @@ Below is an oversimplified example which demonstrates the top-down solution's pa
 
 We can "see" the downward staircase of recursive calls highlighted in yellow and the corresponding optimal solutions formulated in reverse as the recursive stack unwinds back up the staircase highlighted in green.
 
-
-> You have to let it all go, Neo - fear, doubt, and disbelief...  **Free your mind.**
+> Tank, load the jump program.
 >
 [-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
 ![](images/top-down_and_bottom-up.png)
+
+> You have to let it all go, Neo - fear, doubt, and disbelief...  **Free your mind.**
+>
+[-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
 Each `i`<sup>th</sup> mental leap of faith from `i = 0..N-1` is highlighted in yellow as the recursive function `go()` invokes itself as a subroutine until the base case `N = 4` is reached, ie. we recursively `go()` from `here` to `there` over and over again.  As the recursive stack unwinds (highlighted in green), `i`<sup>th</sup> sub-problem solutions are optimally built upon themselves.  And we arrive at the same answer at the `End`.
 
@@ -440,10 +443,6 @@ The most difficult part of dynamic programming is acquiring an understanding of 
 * [Towers of Hanoi](https://claytonjwong.github.io/Towers-Of-Hanoi/)
 
 ## Supplemental Resources
-
-> Tank, load the jump program.
->
-[-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
 * [Mathematics for Computer Science](https://github.com/claytonjwong/Algorithms-Stanford/raw/master/documentation/mcs.pdf)
 * [Algorithms: Dasgupta-Papadimitriou-Vazirani ( 2006 )](https://github.com/claytonjwong/Algorithms-Stanford/tree/master/documentation/Dasgupta-Papadimitriou-Vazirani.pdf)

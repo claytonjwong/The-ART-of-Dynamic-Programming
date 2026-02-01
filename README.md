@@ -132,13 +132,13 @@ We can "see" the downward staircase of recursive calls highlighted in yellow and
 
 Each `i`<sup>th</sup> mental leap of faith from `i = 0..N-1` is highlighted in yellow as the recursive function `go()` invokes itself as a subroutine until the base case `N = 4` is reached, ie. we recursively `go()` from `here` to `there` over and over again.  As the recursive stack unwinds (highlighted in green), `i`<sup>th</sup> sub-problem solutions are optimally built upon themselves.  And we arrive at the same answer at the `End`.
 
-> True poets lead no one unawares.  It is nothing other than awarness that poets - that is, creators of all sorts - seek.  They do not display their art so as to make it appear real; they display the real in a way that reveals it to be art.
->
-[-James P. Carse](https://en.wikipedia.org/wiki/James_P._Carse)
-
 The bottom-up solution has two key advantages over the top-down solution:
 1. No recursive stack overhead
 2. Memory optimization
+
+> True poets lead no one unawares.  It is nothing other than awarness that poets - that is, creators of all sorts - seek.  They do not display their art so as to make it appear real; they display the real in a way that reveals it to be art.
+>
+[-James P. Carse](https://en.wikipedia.org/wiki/James_P._Carse)
 
 It's worth noting that we can perform linear scans from the top-down solutions from `i=0..N-1` or in the reverse direction from `i=N-1..0`, and likewise we can do the same for the bottom-up solutions.  However, since the bottom-up solutions require explicit base cases to be defined to be iteratively built upon, it often makes sense to follow the recursive stack unwinding starting at `N-1` because we can explicitly add base case(s) by appending them onto index `N`,`N+1`,`N+2`... to be iteratively built upon.  See [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/discuss/1606340/The-ART-of-Dynamic-Programming) as an example of bottom-up solutions performing linear scans in the opposite and same direction as the recursive stack unwinding, ie. starting from the top-left with empty string base cases at index `0` thus offsetting the `dp` matrix by `1` compared to starting from the bottom-right with empty string base cases at index `M`,`N` thus *not* needing to offset the `dp` matrix, simplifying the code.
 
